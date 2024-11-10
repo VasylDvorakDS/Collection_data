@@ -18,7 +18,7 @@ item=1
 
 url='http://books.toscrape.com/'
 ua=UserAgent().random
-header={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
+header={"User-Agent":ua}
 
 session=requests.session()
 response=session.get(url, headers=header, timeout=1)
@@ -39,6 +39,8 @@ for cat_item in categories_list:
     next_page=cat_item['link_categories']
     while True:
         time.sleep(1)
+        ua = UserAgent().random
+        header = {"User-Agent": ua}
         response_for_cat_item = session.get(next_page, headers=header, timeout=1)
         soup_for_cat_item = BeautifulSoup(response_for_cat_item.content, 'html.parser')
         banners_books=soup_for_cat_item.find_all('article', {'class': 'product_pod'})
@@ -51,6 +53,8 @@ for cat_item in categories_list:
             book['Name'] = area_cont.find('img').get('alt')
             book['Price'] = banner_book.find('p', {'class': 'price_color'}).getText()[1:]
             time.sleep(1)
+            ua = UserAgent().random
+            header = {"User-Agent": ua}
             response_for_book=session.get(book['Link'], headers=header, timeout=1)
             soup_for_book = BeautifulSoup(response_for_book.content, 'html.parser')
             page_book_info = soup_for_book.find('div', {'class': 'page_inner'})
