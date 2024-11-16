@@ -70,7 +70,6 @@ for cat_item in categories_list:
         if not next_button:
             break
         next_page=next_page[:next_page.rfind('/')+1]+next_button.get('href')
-
 print('Все данные о книгах вытащены, всег книг: ', len(books))
 
 category=[]
@@ -96,8 +95,10 @@ formatted_library = {'Category' : category, 'Name' : name, 'Price' : price, 'In_
 
 df = pd.DataFrame(formatted_library)
 
+pprint(df)
+
 # Преобразуем DataFrame в JSON файл
-df.to_json('books_library.json', orient='records', lines=True)
+df.to_json('books_library.json',orient='records', force_ascii=False, indent=4)
 print("Данные о книгах записаны в JSON file  'books_library.json'\n \n")
 print('Окончательный DataFrame всех книг:')
 print(df)
