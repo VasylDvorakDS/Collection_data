@@ -13,9 +13,18 @@ def save_data_to_mongo(data):
     :param data: список словарей с данными рецептов
     """
     client = MongoClient('localhost', 27017)  # Подключение к MongoDB на локальном хосте
-    db = client['cookingclassy']  # Создание/выбор базы данных
-    collection = db['recipes_meat']  # Создание/выбор коллекции
-    collection.insert_many(data)  # Массовая вставка данных
+    try:
+        db = client['cookingclassy']  # Создание/выбор базы данных
+        collection = db['recipes_meat']  # Создание/выбор коллекции
+        collection.insert_many(data)  # Массовая вставка данных
+    except Exception as e:
+        print('Ошибка записи в MongoDB: ',e )
+    client.close()
+
+
+
+
+
 
 
 # Функция для записи данных в CSV-файл
@@ -26,11 +35,14 @@ def write_in_csv(data):
     """
     filename = "receipts.csv"  # Имя выходного файла
     headers = data[0].keys()  # Используем ключи первого словаря как заголовки CSV
-    with open(filename, mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=headers)  # Объект для записи словарей в CSV
-        writer.writeheader()  # Записываем заголовки
-        writer.writerows(data)  # Записываем строки
-    print(f"Данные успешно записаны в файл {filename}.")
+    try:
+        with open(filename, mode="w", newline="", encoding="utf-8") as file:
+            writer = csv.DictWriter(file, fieldnames=headers)  # Объект для записи словарей в CSV
+            writer.writeheader()  # Записываем заголовки
+            writer.writerows(data)  # Записываем строки
+            print(f"Данные успешно записаны в файл {filename}.")
+    except Exception as e:
+        print('Ошибка записи в csv файл: ', e)
 
 
 # Создаём объект UserAgent для случайного выбора User-Agent
