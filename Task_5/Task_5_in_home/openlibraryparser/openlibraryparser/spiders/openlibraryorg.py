@@ -22,7 +22,6 @@ class OpenlibraryorgSpider(scrapy.Spider):
         for link in links:
            yield response.follow(link, callback=self.books_parse)
 
-
     def books_parse(self, response: HtmlResponse):
         book_title = response.xpath("//h1[@class='work-title']/text()").get()
         book_author = response.xpath("//a[@itemprop='author']//text()").get()
