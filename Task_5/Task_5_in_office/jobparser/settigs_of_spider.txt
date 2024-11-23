@@ -4,7 +4,7 @@ PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и
 PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и разметка данных\Collection_data\Task_5> cd Task_5_in_office
 PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и разметка данных\Collection_data\Task_5\Task_5_in_office> scrapy startproject jobparser
 
-PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и разметка данных\Collection_data\Task_5\Task_5_in_office> scrapy genspider hhru
+PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и разметка данных\Collection_data\Task_5\Task_5_in_office>
 
 PS E:\Курс_DataScience_GeekBarains\Вторая_четверть\Сбор и разметка данных\Collection_data\Task_5\Task_5_in_office> scrapy genspider hhru hh.ru
 

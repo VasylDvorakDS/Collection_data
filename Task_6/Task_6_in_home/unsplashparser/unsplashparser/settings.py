@@ -1,4 +1,4 @@
-# Scrapy settings for bookparser project
+# Scrapy settings for unsplashparser project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -6,14 +6,14 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-from Task_6.Task_6_in_office.zebrs.zebrs.settings import IMAGES_STORE
 
-BOT_NAME = "bookparser"
+BOT_NAME = "unsplashparser"
 
-SPIDER_MODULES = ["bookparser.spiders"]
-NEWSPIDER_MODULE = "bookparser.spiders"
+SPIDER_MODULES = ["unsplashparser.spiders"]
+NEWSPIDER_MODULE = "unsplashparser.spiders"
 LOG_LEVEL = "DEBUG"
 IMAGES_STORE= "photos"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
@@ -47,13 +47,13 @@ COOKIES_ENABLED = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "bookparser.middlewares.BookparserSpiderMiddleware": 543,
+#    "unsplashparser.middlewares.UnsplashparserSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "bookparser.middlewares.BookparserDownloaderMiddleware": 543,
+#    "unsplashparser.middlewares.UnsplashparserDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -64,9 +64,11 @@ COOKIES_ENABLED = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
+#ITEM_PIPELINES = {
+#    "unsplashparser.pipelines.UnsplashparserPipeline": 300,
+#}
 ITEM_PIPELINES = {
-    "bookparser.pipelines.BookparserPipeline": 300,
-    "bookparser.pipelines.BookPhotosPipeline": 200,
+    "unsplashparser.pipelines.UnsplashparserPhotosPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -92,4 +94,14 @@ ITEM_PIPELINES = {
 
 # Set settings whose default value is deprecated to a future-proof value
 #TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
+#DOWNLOADER_MIDDLEWARES = {
+#    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
+#}
+#PROXY = 'http://185.225.17.90:443'
+
 FEED_EXPORT_ENCODING = "utf-8"
+
+# DOWNLOADER_MIDDLEWARES = {
+#     'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
+#     'unsplashparser.middlewares.ProxyMiddleware': 100,
+# }
