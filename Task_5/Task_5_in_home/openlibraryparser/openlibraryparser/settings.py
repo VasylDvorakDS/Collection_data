@@ -13,7 +13,7 @@ SPIDER_MODULES = ["openlibraryparser.spiders"]
 NEWSPIDER_MODULE = "openlibraryparser.spiders"
 LOG_ENABLED = True
 LOG_LEVEL = "DEBUG"
-
+IMAGES_STORE= "photos"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
@@ -65,9 +65,9 @@ COOKIES_ENABLED = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'openlibraryparser.pipelines.OpenlibraryparserPipeline': 300,
+    'openlibraryparser.pipelines.OpenlibraryparserImagesPipeline': 1,
+    'openlibraryparser.pipelines.OpenlibraryparserPipeline': 300,
 }
-
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

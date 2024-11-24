@@ -1,1208 +1,1965 @@
 [
     {
         "_id": {
-            "$oid": "673f8240ad63afcad8134fb9"
-        },
-        "book_title": "1984",
-        "book_author": "George Orwell",
-        "book_description": "Nineteen Eighty-Four: A Novel, often referred to as 1984, is a dystopian social science fiction novel by the English novelist George Orwell (the pen name of Eric Arthur Blair). It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society. Orwell, himself a democratic socialist, modelled the authoritarian government in the novel after Stalinist Russia. More broadly, the novel examines the role of truth and facts within politics and the ways in which they are manipulated.\n",
-        "book_url": "https://openlibrary.org/works/OL1168083W/Nineteen_Eighty-Four?edition=ia%3A19840000aowe"
-    },
-    {
-        "_id": {
-            "$oid": "673f8241ad63afcad8134fba"
-        },
-        "book_title": "Haunting Adeline",
-        "book_author": "H. D. Carlton",
-        "book_description": "\n",
-        "book_url": "https://openlibrary.org/works/OL27310398W/Haunting_Adeline"
-    },
-    {
-        "_id": {
-            "$oid": "673f8242ad63afcad8134fbb"
-        },
-        "book_title": "Harry Potter y la piedra filosofal",
-        "book_author": "J. K. Rowling",
-        "book_description": "Harry Potter #1\n",
-        "book_url": "https://openlibrary.org/works/OL82563W/Harry_Potter_and_the_Philosopher%27s_Stone?edition=ia%3Aharrypotterylapi0000rowl_q5r6"
-    },
-    {
-        "_id": {
-            "$oid": "673f8243ad63afcad8134fbc"
-        },
-        "book_title": "La Métamorphose ",
-        "book_author": "Franz Kafka",
-        "book_description": "Metamorphosis (German: Die Verwandlung) is a novella written by Franz Kafka which was first published in 1915. One of Kafka's best-known works, Metamorphosis tells the story of salesman Gregor Samsa, who wakes one morning to find himself inexplicably transformed into a huge insect (German: ungeheueres Ungeziefer, lit. \"monstrous vermin\") and subsequently struggles to adjust to this new condition. The novella has been widely discussed among literary critics, with differing interpretations being offered. In popular culture and adaptations of the novella, the insect is commonly depicted as a cockroach.\n",
-        "book_url": "https://openlibrary.org/works/OL498556W/Die_Verwandlung?edition=ia%3Alamtamorphosedes0000fran"
-    },
-    {
-        "_id": {
-            "$oid": "673f8243ad63afcad8134fbd"
-        },
-        "book_title": "Um casamento arranjado",
-        "book_author": "Zana Kheiron",
-        "book_description": "Uma historia de uma familia falida q faz acordo com outra familia rica e sua filha mais velha e cedida em troca. O filho da família rica teve um acidente de avião que queimou 50% do seu corpo e casa c essa linda moca e se apaixonam\n",
-        "book_url": "https://openlibrary.org/works/OL35351151W/Um_casamento_arranjado"
-    },
-    {
-        "_id": {
-            "$oid": "673f8243ad63afcad8134fbe"
+            "$oid": "67422e7d8868e4abd747951e"
         },
         "book_title": "PAI RICO, PAI POBRE - O que os Ricos Ensinam a Seus Filhos Sobre Dinheiro -(EURO 18.85)",
         "book_author": "Robert T. Kiyosaki",
         "book_description": "April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published, readers will find that very little in the book itself has changed — and for good reason. While so much in our world is changing a high speed, the lessons about money and the principles of Rich Dad Poor Dad haven’t changed. Today, as money continues to play a key role in our daily lives, the messages in Robert Kiyosaki’s international bestseller are more timely and more important than ever.\n",
-        "book_url": "https://openlibrary.org/works/OL2010879W/Rich_Dad_Poor_Dad?edition=ia%3Apairicopaipobreo0000kiyo"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14819642-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2010879W/Rich_Dad_Poor_Dad?edition=ia%3Apairicopaipobreo0000kiyo",
+        "image_file_path": "photos/PAI RICO, PAI POBRE - O que os Ricos Ensinam a Seus Filhos Sobre Dinheiro -(EURO 18.85)__ee023dfc399125dde9e6880d94bfb8ff37f105f1.jpg"
     },
     {
         "_id": {
-            "$oid": "673f8244ad63afcad8134fbf"
+            "$oid": "67422e7d8868e4abd747951f"
         },
-        "book_title": "Icebreaker",
-        "book_author": "Hannah Grace",
-        "book_description": "\n",
-        "book_url": "https://openlibrary.org/works/OL28952677W/Icebreaker"
-    },
-    {
-        "_id": {
-            "$oid": "673f8245ad63afcad8134fc0"
-        },
-        "book_title": "It Ends With Us",
-        "book_author": "Colleen Hoover",
-        "book_description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true.\n",
-        "book_url": "https://openlibrary.org/works/OL18020194W/It_Ends_With_Us?edition=ia%3Aitendswithus0000hoov"
-    },
-    {
-        "_id": {
-            "$oid": "673f8245ad63afcad8134fc1"
-        },
-        "book_title": "Stanotte la libertà",
-        "book_author": "Dominique Lapierre",
-        "book_description": "The end of an empire. The birth of two nations.\n",
-        "book_url": "https://openlibrary.org/works/OL1751683W/Freedom_at_Midnight?edition=ia%3Astanottelalibert0000lapi"
-    },
-    {
-        "_id": {
-            "$oid": "673f8246ad63afcad8134fc2"
-        },
-        "book_title": "The Myth of Sisyphus and Other Essays",
-        "book_author": "Albert Camus",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL1230690W/The_Myth_of_Sisyphus_and_Other_Essays?edition=ia%3Amythofsisyphus00camu"
-    },
-    {
-        "_id": {
-            "$oid": "673f8247ad63afcad8134fc3"
-        },
-        "book_title": "Bumi",
-        "book_author": "Tere Liye",
-        "book_description": "Namaku Raib, usiaku 15 tahun, kelas sepuluh. Aku anak perempuan seperti kalian, adik-adik kalian, tetangga kalian. Aku punya dua kucing, namanya si Putih dan si Hitam. Mama dan papaku menyenangkan. Guru-guru di sekolahku seru. Teman-temanku baik dan kompak.\n",
-        "book_url": "https://openlibrary.org/works/OL23233727W/Bumi"
-    },
-    {
-        "_id": {
-            "$oid": "673f8247ad63afcad8134fc4"
-        },
-        "book_title": "As Long As the Lemon Trees Grow",
-        "book_author": "Zoulfa Katouh",
-        "book_description": "Salama Kassab was a pharmacy student when the cries for freedom broke out in Syria. She still had her parents and her big brother; she still had her home. She had a normal teenager’s life.\n",
-        "book_url": "https://openlibrary.org/works/OL27092839W/As_Long_As_the_Lemon_Trees_Grow"
-    },
-    {
-        "_id": {
-            "$oid": "673f8247ad63afcad8134fc5"
-        },
-        "book_title": "Percy Jackson and the Greek Gods",
-        "book_author": "Rick Riordan",
-        "book_description": "\"A publisher in New York asked me to write down what I know about the Greek gods, and I was like, 'Can we do this anonymously?' Because I don't need the Olympians mad at me again. But if it helps you to know your Greek gods, and survive an encounter with them if they ever show up in your face, then I guess writing all this down will be my good deed for the week.\"\n",
-        "book_url": "https://openlibrary.org/works/OL17054790W/Percy_Jackson%27s_Greek_Gods?edition=ia%3Apercyjacksongree0000rior_h6c7"
-    },
-    {
-        "_id": {
-            "$oid": "673f8247ad63afcad8134fc6"
-        },
-        "book_title": "El Nombre de la Rosa (edicion Especial)/ the Name of the Rose",
-        "book_author": "Umberto Eco",
-        "book_description": "It is the year 1327. Franciscans in an Italian abbey are suspected of heresy, but Brother William of Baskerville’s investigation is suddenly overshadowed by seven bizarre deaths.\n",
-        "book_url": "https://openlibrary.org/works/OL8996439W/Il_nome_della_rosa?edition=ia%3Aelnombredelarosa0000umbe"
-    },
-    {
-        "_id": {
-            "$oid": "673f8249ad63afcad8134fc7"
-        },
-        "book_title": "Control Your Mind and Master Your Feelings",
-        "book_author": "Eric Robertson - undifferentiated",
-        "book_description": "We oftentimes look towards the outside world to find the roots of our problems. However, most of the times, we should be looking inwards. Our mind and our emotions determine our state of being in the present moment. If those aspects are left unchecked, we can get easily overwhelmed and are left feeling unfulfilled every single day.\n",
-        "book_url": "https://openlibrary.org/works/OL25312237W/Control_Your_Mind_and_Master_Your_Feelings"
-    },
-    {
-        "_id": {
-            "$oid": "673f8249ad63afcad8134fc8"
-        },
-        "book_title": "Harry Potter et la Chambre des Secrets",
+        "book_title": "Harry Potter et la Coupe de Feu",
         "book_author": "J. K. Rowling",
-        "book_description": "Throughout the summer holidays after his first year at Hogwarts School of Witchcraft and Wizardry, Harry Potter has been receiving sinister warnings from a house-elf called Dobby.\n",
-        "book_url": "https://openlibrary.org/works/OL82537W/Harry_Potter_and_the_Chamber_of_Secrets?edition=ia%3Aharrypottertome20000jkro"
+        "book_description": "En ce début d'année à Poudlard, une grande nouvelle attend Harry, Ron et Hermione : la tenue d'un tournoi de magie exceptionnel entre les plus célèbres écoles de sorcellerie. Déjà les délégations étrangères font leur entrée. Harry se réjouit... Trop vite. Il va au-devant des événements les plus dramatiques qu'il ait jamais connus.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12905137-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL82560W/Harry_Potter_and_the_Goblet_of_Fire?edition=ia%3Aharrypotteretlac0000rowl_l8z4",
+        "image_file_path": "photos/Harry Potter et la Coupe de Feu__93db8ec13b29ca52d71f3c092715ac93cb1e7c66.jpg"
     },
     {
         "_id": {
-            "$oid": "673f8253ad63afcad8134fc9"
-        },
-        "book_title": "A Court of Thorns and Roses",
-        "book_author": "Sarah J. Maas",
-        "book_description": "When nineteen-year-old huntress Feyre kills a wolf in the woods, a terrifying creature arrives to demand retribution. Dragged to a treacherous magical land she knows about only from legends, Feyre discovers that her captor is not truly a beast, but one of the lethal, immortal faeries who once ruled her world.\n",
-        "book_url": "https://openlibrary.org/works/OL17352669W/A_Court_of_Thorns_and_Roses?edition=ia%3Acourtofthornsros0000maas"
-    },
-    {
-        "_id": {
-            "$oid": "673f8255ad63afcad8134fca"
-        },
-        "book_title": "Mai tian li de shou wang zhe",
-        "book_author": "J. D. Salinger",
-        "book_description": "Story of Holden Caufield with his idiosyncrasies, penetrating insight, confusion, sensitivity and negativism. Holden, knowing he is to be expelled from school, decides to leave early. He spends three days in New York City and tells the story of what he did and suffered there.\n",
-        "book_url": "https://openlibrary.org/works/OL3335245W/The_Catcher_in_the_Rye?edition=ia%3Amaitianlideshouw0000unse"
-    },
-    {
-        "_id": {
-            "$oid": "673f8255ad63afcad8134fcb"
-        },
-        "book_title": "Asesinato para principiantes",
-        "book_author": "Holly Jackson",
-        "book_description": "Hace cinco años, la estudiante Andie Bell fue asesinada por Sal Singh. La policía sabe que fue él. Sus compañeros también. Todo el mundo lo sabe.\n",
-        "book_url": "https://openlibrary.org/works/OL20646061W/A_Good_Girl%27s_Guide_to_Murder"
-    },
-    {
-        "_id": {
-            "$oid": "673f8256ad63afcad8134fcc"
-        },
-        "book_title": "Eine kurze Geschichte der Menschheit",
-        "book_author": "Yuval Noah Harari",
-        "book_description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.”\n",
-        "book_url": "https://openlibrary.org/works/OL17075811W/Sapiens?edition=ia%3Aeinekurzegeschic0000yuva"
-    },
-    {
-        "_id": {
-            "$oid": "673f8257ad63afcad8134fcd"
-        },
-        "book_title": "Programação de Sistemas Embarcados",
-        "book_author": "Rodrigo de Almeida",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL24470175W/Programa%C3%A7%C3%A3o_de_Sistemas_Embarcados"
-    },
-    {
-        "_id": {
-            "$oid": "673f8257ad63afcad8134fce"
-        },
-        "book_title": "Sie Nannten Mich Es",
-        "book_author": "David J. Pelzer",
-        "book_description": "This book chronicles the unforgettable account of one of the most severe child abuse cases in California history. It is the story of Dave Pelzer, who was brutally beaten and starved by his emotionally unstable, alcoholic mother: a mother who played tortuous, unpredictable games--games that left him nearly dead. He had to learn how to play his mother's games in order to survive because she no longer considered him a son, but a slave; and no longer a boy, but an \"it.\"\n",
-        "book_url": "https://openlibrary.org/works/OL66946W/A_child_called_it?edition=ia%3Asienanntenmiches0000pelz"
-    },
-    {
-        "_id": {
-            "$oid": "673f8258ad63afcad8134fcf"
-        },
-        "book_title": "Die Bibel oder die ganze heilige Schrift des alten und neuen Testaments",
-        "book_author": "Bible",
-        "book_description": "A Christian Bible is a set of books divided into the Old and New Testament that a Christian denomination has, at some point in their past or present, regarded as divinely inspired scripture.\n",
-        "book_url": "https://openlibrary.org/works/OL17732W/Bible?edition=ia%3Adiebibeloderdie00luth"
-    },
-    {
-        "_id": {
-            "$oid": "673f8259ad63afcad8134fd0"
-        },
-        "book_title": "Machiavelli",
-        "book_author": "Niccolò Machiavelli",
-        "book_description": "The Prince (Italian: Il Principe [il ˈprintʃipe]; Latin: De Principatibus) is a 16th-century political treatise written by Italian diplomat and political theorist Niccolò Machiavelli as an instruction guide for new princes and royals. The general theme of The Prince is of accepting that the aims of princes – such as glory and survival – can justify the use of immoral means to achieve those ends.\n",
-        "book_url": "https://openlibrary.org/works/OL1089297W/The_Prince?edition=ia%3Amachiavelli00machuoft"
-    },
-    {
-        "_id": {
-            "$oid": "673f8259ad63afcad8134fd1"
-        },
-        "book_title": "The Seven Husbands of Evelyn Hugo",
-        "book_author": "Taylor Jenkins Reid",
-        "book_description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. Why her? Why now?\n",
-        "book_url": "https://openlibrary.org/works/OL18203673W/The_Seven_Husbands_of_Evelyn_Hugo"
-    },
-    {
-        "_id": {
-            "$oid": "673f8259ad63afcad8134fd2"
-        },
-        "book_title": "Never Lie",
-        "book_author": "Freida McFadden",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL34224558W/Never_Lie"
-    },
-    {
-        "_id": {
-            "$oid": "673f825bad63afcad8134fd3"
-        },
-        "book_title": "Lit'ŭl laip'ŭ",
-        "book_author": "Hanya Yanagihara",
-        "book_description": "When four classmates from a small Massachusetts college move to New York to make their way, they're broke, adrift, and buoyed only by their friendship and ambition. There is kind, handsome Willem, an aspiring actor; JB, a quick-witted, sometimes cruel Brooklyn-born painter seeking entry to the art world; Malcolm, a frustrated architect at a prominent firm; and withdrawn, brilliant, enigmatic Jude, who serves as their center of gravity. Over the decades, their relationships deepen and darken, tinged by addiction, success, and pride. Yet their greatest challenge, each comes to realize, is Jude himself, by midlife a terrifyingly talented litigator yet an increasingly broken man, his mind and body scarred by an unspeakable childhood, and haunted by what he fears is a degree of trauma that he'll not only be unable to overcome -- but that will define his life forever.\n",
-        "book_url": "https://openlibrary.org/works/OL17370186W/A_Little_Life?edition=ia%3Alitullaipulittle0000yana"
-    },
-    {
-        "_id": {
-            "$oid": "673f825dad63afcad8134fd4"
-        },
-        "book_title": "Como a gua para chocolate",
-        "book_author": "Laura Esquivel",
-        "book_description": "Like Water for Chocolate (Spanish: Como agua para chocolate) is a novel by Mexican novelist and screenwriter Laura Esquivel.\n",
-        "book_url": "https://openlibrary.org/works/OL953162W/Como_agua_para_chocolate?edition=ia%3Aisbn_8501154423"
-    },
-    {
-        "_id": {
-            "$oid": "673f825ead63afcad8134fd5"
-        },
-        "book_title": "华氏451",
-        "book_author": "Ray Bradbury",
-        "book_description": "Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury. Often regarded as one of his best works, the novel presents a future American society where books are outlawed and \"firemen\" burn any that are found. The book's tagline explains the title as \"'the temperature at which book paper catches fire, and burns\": the autoignition temperature of paper. The lead character, Guy Montag, is a fireman who becomes disillusioned with his role of censoring literature and destroying knowledge, eventually quitting his job and committing himself to the preservation of literary and cultural writings.\n",
-        "book_url": "https://openlibrary.org/works/OL103123W/Fahrenheit_451?edition=ia%3Ahuashi4510000unse"
-    },
-    {
-        "_id": {
-            "$oid": "673f825ead63afcad8134fd6"
-        },
-        "book_title": "Os 7 Hábitos das Pessoas Altamente Eficazes",
-        "book_author": "Stephen R. Covey",
-        "book_description": "\n   ",
-        "book_url": "https://openlibrary.org/works/OL2629977W/The_7_Habits_of_Highly_Effective_People?edition=ia%3Aos7hbitosdaspess0000inva"
-    },
-    {
-        "_id": {
-            "$oid": "673f825ead63afcad8134fd7"
-        },
-        "book_title": "fuat shit",
-        "book_author": "Hannah Grace",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL37523358W/Ice_breaker"
-    },
-    {
-        "_id": {
-            "$oid": "673f8265ad63afcad8134fd8"
-        },
-        "book_title": "Las 48 leyes del poder",
-        "book_author": "Robert Greene",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL24745356W/Las_48_leyes_del_poder"
-    },
-    {
-        "_id": {
-            "$oid": "673f8266ad63afcad8134fd9"
-        },
-        "book_title": "人性的弱点",
-        "book_author": "Dale Carnegie",
-        "book_description": "Available for the first time ever in trade paperback, Dale Carnegie's enduring classic, the inspirational personal development guide that shows how to achieve lifelong success. One of the top-selling books of all time, \"How to Win Friends & Influence People\" has sold more than 15 million copies in all its editions.\n",
-        "book_url": "https://openlibrary.org/works/OL1063267W/How_to_Win_Friends_and_Influence_People?edition=ia%3Arenxingderuodian0000kane_h0y9"
-    },
-    {
-        "_id": {
-            "$oid": "673f826bad63afcad8134fda"
-        },
-        "book_title": "Cinquante nuances de Grey",
-        "book_author": "E. L. James",
-        "book_description": "When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.\n",
-        "book_url": "https://openlibrary.org/works/OL16336633W/Fifty_Shades_of_Grey?edition=ia%3Acinquantenuances0000jame"
-    },
-    {
-        "_id": {
-            "$oid": "673f826bad63afcad8134fdb"
-        },
-        "book_title": "The hard thing about hard things : building a business when there are no easy answers",
-        "book_author": "Ben Horowitz",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL16818208W/The_hard_thing_about_hard_things?edition=ia%3Ahardthingaboutha0000horo"
-    },
-    {
-        "_id": {
-            "$oid": "673f826bad63afcad8134fdc"
-        },
-        "book_title": "El Secreto",
-        "book_author": "Donna Tartt",
-        "book_description": "Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality they slip gradually from obsession to corruption and betrayal, and at last - inexorably - into evil.\n",
-        "book_url": "https://openlibrary.org/works/OL4321141W/The_Secret_History?edition=ia%3Aelsecreto00donn"
-    },
-    {
-        "_id": {
-            "$oid": "673f826bad63afcad8134fdd"
-        },
-        "book_title": "Pride and Prejudice",
-        "book_author": "Jane Austen",
-        "book_description": "345 p. :\n",
-        "book_url": "https://openlibrary.org/works/OL66554W/Pride_and_Prejudice?edition=ia%3Abwb_KS-179-237"
-    },
-    {
-        "_id": {
-            "$oid": "673f826cad63afcad8134fde"
-        },
-        "book_title": "해리포터와 아즈카반의 죄수",
-        "book_author": "J. K. Rowling",
-        "book_description": "For Harry Potter, it’s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\n",
-        "book_url": "https://openlibrary.org/works/OL82536W/Harry_Potter_and_the_Prisoner_of_Azkaban?edition=ia%3Aharrypotterpriso0000unkn"
-    },
-    {
-        "_id": {
-            "$oid": "673f826cad63afcad8134fdf"
-        },
-        "book_title": "Dune",
-        "book_author": "Frank Herbert",
-        "book_description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...\n",
-        "book_url": "https://openlibrary.org/works/OL893415W/Dune?edition=ia%3Alempereurdieuded0000herb_m7x3"
-    },
-    {
-        "_id": {
-            "$oid": "673f826dad63afcad8134fe0"
-        },
-        "book_title": "The power of now",
-        "book_author": "Eckhart Tolle",
-        "book_description": "Eckhart Tolle has emerged as one of today's most inspiring teachers. In The Power of Now, already a worldwide bestseller, the author describes his transition from despair to self-realization soon after his 29th birthday. Tolle took another ten years to understand this transformation, during which time he evolved a philosophy that has parallels in Buddhism, relaxation techniques, and meditation theory but is also eminently practical. In The Power of Now he shows readers how to recognize themselves as the creators of their own pain, and how to have a pain-free existence by living fully in the present. Accessing the deepest self, the true self, can be learned, he says, by freeing ourselves from the conflicting, unreasonable demands of the mind and living \"present, fully, and intensely, in the Now.\"\n",
-        "book_url": "https://openlibrary.org/works/OL5727686W/The_Power_of_Now?edition=ia%3Apowerofnowguid00toll"
-    },
-    {
-        "_id": {
-            "$oid": "673f826fad63afcad8134fe1"
-        },
-        "book_title": "Wings of Fire",
-        "book_author": "A. P. J. Abdul Kalam",
-        "book_description": "Avul Pakir Jainulabdeen Abdul Kalam, the son of a little-educated boat-owner in Rameswaram, Tamil Nadu, had an unparalleled career as a defence scientist, culminating in the highest civilian award of India, the Bharat Ratna. As chief of the country’s defence research and development programme, Kalam demonstrated the great potential for dynamism and innovation that existed in seemingly moribund research establishments. This is the story of Kalam’s rise from obscurity and his personal and professional struggles, as well as the story of Agni, Prithvi, Akash, Trishul and Nag—missiles that have become household names in India and that have raised the nation to the level of a missile power of international reckoning. This is also the saga of independent India’s struggle for technological self-sufficiency and defensive autonomy—a story as much about politics, domestic and international, as it is about science.\n",
-        "book_url": "https://openlibrary.org/works/OL1037811W/Wings_of_Fire?edition=ia%3Aisbn_9788173711466"
-    },
-    {
-        "_id": {
-            "$oid": "673f8270ad63afcad8134fe2"
-        },
-        "book_title": "Surrounded by Idiots",
-        "book_author": "Thomas Erikson",
-        "book_description": "Do you ever think you’re the only one making any sense? Or tried to reason with your partner with disastrous results? Do long, rambling answers drive you crazy? Or does your colleague’s abrasive manner rub you the wrong way?\n",
-        "book_url": "https://openlibrary.org/works/OL20806514W/Surrounded_by_Idiots"
-    },
-    {
-        "_id": {
-            "$oid": "673f8271ad63afcad8134fe3"
-        },
-        "book_title": "The Hobbit",
-        "book_author": "J.R.R. Tolkien",
-        "book_description": "The Hobbit is a tale of high adventure, undertaken by a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving unambitious hobbit, who surprises even himself by his resourcefulness and skill as a burglar.\n",
-        "book_url": "https://openlibrary.org/works/OL27482W/The_Hobbit?edition=ia%3Ahobbitortherebac00tolk_2"
-    },
-    {
-        "_id": {
-            "$oid": "673f8271ad63afcad8134fe4"
-        },
-        "book_title": "Harry Potter et le Sang Mele",
-        "book_author": "J. K. Rowling",
-        "book_description": "One summer night, when Dumbledore arrives at Privet Drive to collect Harry Potter, his wand hand is blackened and shriveled, but he will not reveal why.\n",
-        "book_url": "https://openlibrary.org/works/OL82565W/Harry_Potter_and_the_Half-Blood_Prince?edition=ia%3Aharrypotteretles0000jkro_c4k4"
-    },
-    {
-        "_id": {
-            "$oid": "673f8271ad63afcad8134fe5"
-        },
-        "book_title": "Boxi Jiekexun yu shen huo zhi dao",
-        "book_author": "Rick Riordan",
-        "book_description": "After learning that he is the son of a mortal woman and Poseidon, god of the sea, twelve-year-old Percy is sent to a summer camp for demigods like himself, and joins his new friends on a quest to prevent a war between the gods.\n",
-        "book_url": "https://openlibrary.org/works/OL492658W/The_Lightning_Thief?edition=ia%3Aboxijiekexunyush0000rior"
-    },
-    {
-        "_id": {
-            "$oid": "673f8271ad63afcad8134fe6"
-        },
-        "book_title": "Alchemik",
-        "book_author": "Paulo Coelho",
-        "book_description": "Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.\n",
-        "book_url": "https://openlibrary.org/works/OL796465W/The_Alchemist?edition=ia%3Aalchemik0000coel"
-    },
-    {
-        "_id": {
-            "$oid": "673f8272ad63afcad8134fe7"
-        },
-        "book_title": "Can't Hurt Me",
-        "book_author": "David Goggins",
-        "book_description": "New York Times best seller\n",
-        "book_url": "https://openlibrary.org/works/OL18108064W/Can%27t_Hurt_Me"
-    },
-    {
-        "_id": {
-            "$oid": "673f8277ad63afcad8134fe8"
-        },
-        "book_title": "Der Prozess",
-        "book_author": "Franz Kafka",
-        "book_description": "first edition by Max Brod, first publication at all\n",
-        "book_url": "https://openlibrary.org/works/OL498463W/Der_Proce%C3%9F?edition=ia%3AKafkasProcess"
-    },
-    {
-        "_id": {
-            "$oid": "673f8277ad63afcad8134fe9"
-        },
-        "book_title": "Harry Potter i Zakon Feniksa",
-        "book_author": "J. K. Rowling",
-        "book_description": "After the Dementors’ attack on his cousin Dudley, Harry knows he is about to become Voldemort’s next target.\n",
-        "book_url": "https://openlibrary.org/works/OL82548W/Harry_Potter_and_the_Order_of_the_Phoenix?edition=ia%3Aharypotterizakon0000rowl"
-    },
-    {
-        "_id": {
-            "$oid": "673f8278ad63afcad8134fea"
-        },
-        "book_title": "Why men love bitches",
-        "book_author": "Sherry Argov",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL37172248W/Why_men_love_bitches"
-    },
-    {
-        "_id": {
-            "$oid": "673f827cad63afcad8134feb"
-        },
-        "book_title": "Carrie",
-        "book_author": "Stephen King",
-        "book_description": "The story of misfit high-school girl, Carrie White, who gradually discovers that she has telekinetic powers. Repressed by a domineering, ultra-religious mother and tormented by her peers at school, her efforts to fit in lead to a dramatic confrontation during the senior prom. ",
-        "book_url": "https://openlibrary.org/works/OL81626W/Carrie?edition=ia%3Acarrie0000unse_u4w7"
-    },
-    {
-        "_id": {
-            "$oid": "673f827dad63afcad8134fec"
-        },
-        "book_title": "Analisis laporan keuangan",
-        "book_author": "Kasmir",
-        "book_description": "Bagi perusahaan, khususnya pemilik perusahaan dan manajemen, untuk dapat mudah memahami sebuah laporan keuangan, diperlukan suatu analisis yang dilakukan dengan menggunakan rasio-rasio keuangan. Hasil analisis inilah yang dapat memberikan gambaran kondisi perushaan yang sekaligus dapat memudahkan manajemen dalam menentukan arah dan tujuan perushaan di masa yang akan dating. Tentunya sudah menjadi keharusan bagi mereka yang bergelut dalam bidang keuangan untuk memahami dan menggunakan rasio-rasio keuangan dengan tepat.\n",
-        "book_url": "https://openlibrary.org/works/OL24150964W/Analisis_laporan_keuangan"
-    },
-    {
-        "_id": {
-            "$oid": "673f827dad63afcad8134fed"
-        },
-        "book_title": "Charlotte's Web",
-        "book_author": "Jennifer Frantz",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL221977W/Charlotte%27s_Web?edition=ia%3Acharlottesweb00jenn"
-    },
-    {
-        "_id": {
-            "$oid": "673f827fad63afcad8134fee"
-        },
-        "book_title": "The Hired Girl",
-        "book_author": "Laura Amy Schlitz",
-        "book_description": "Ever since the untimely death of her mother, 14 year-old Joan Skraggs has been desperately unhappy. Under the thumb of her cruel father and three sullen brothers, Joan lives like a servant on their farm just outside of Lancaster, forever cooking, cleaning, and attending to the many demands of the home. But she has little freedom, and less support from her family for her love of reading and blossoming interest in education. But when her father tells Joan she can't go to school anymore, it sets off a journey that will see her become first a runaway, then a hired girl on $6 a week, and finally her very own young woman. Set in America during the optimistic years before the First World War, and told through a series of journal entries, THE HIRED GIRL is the story of a young girl in search of Real Life and True Love. It takes in feminism and housework; money, religion, and social class; literature and education, romanticism and realism, first love and sexual yearnings, cats, hats, and bunions. And it's a comedy.\n",
-        "book_url": "https://openlibrary.org/works/OL18020192W/The_Hired_Girl?edition=ia%3Ahiredgirl0000schl_e8t3"
-    },
-    {
-        "_id": {
-            "$oid": "673f827fad63afcad8134fef"
-        },
-        "book_title": "Twisted Hate",
-        "book_author": "Ana Huang",
-        "book_description": "He hates her...almost as much as he wants her.\n",
-        "book_url": "https://openlibrary.org/works/OL27245843W/Twisted_Hate"
-    },
-    {
-        "_id": {
-            "$oid": "673f8280ad63afcad8134ff0"
-        },
-        "book_title": "Lesbian Choices (Between Men - Between Women: Lesbian & Gay Studies)",
-        "book_author": "Claudia Card",
-        "book_description": "In this compellingly honest collection of her writings, renowned feminist philosopher Claudia Card courageously explores the complex ethical and political questions lesbians face, considering these issues in regard to their identities and relationships both within and outside of lesbian communities.\n",
-        "book_url": "https://openlibrary.org/works/OL3233193W/Lesbian_choices?edition=ia%3Alesbianchoicesbe0000clau"
-    },
-    {
-        "_id": {
-            "$oid": "673f8280ad63afcad8134ff1"
-        },
-        "book_title": "Es.",
-        "book_author": "Stephen King",
-        "book_description": "\"",
-        "book_url": "https://openlibrary.org/works/OL81613W/It?edition=ia%3Aesroman0000king_s8m4"
-    },
-    {
-        "_id": {
-            "$oid": "673f8282ad63afcad8134ff2"
-        },
-        "book_title": "Percy Jackson et les héros grecs",
-        "book_author": "Rick Riordan",
-        "book_description": "Après ##Percy Jackson et les dieux grecs##, le jeune demi-dieu récidive une fois de plus avec les mythes grecs. Avec humour, il révise avec délice la vie de quelques héros que l'on connait déjà un peu comme Persée, Hercule, Jason (et d'autres un peu moins), en étoffant leur biographie de détails croustillants et hilarants, et parfois, de petites piques. Il faut dire que le destin des héros n'est pas toujours facile, souvent malmené par les dieux et déesses de l'Olympe. On dirait presque que ceux-ci se sont concertés pour leur gâcher la vie. [SDM].\n",
-        "book_url": "https://openlibrary.org/works/OL19669249W/Percy_Jackson%27s_Greek_heroes?edition=ia%3Apercyjacksonetle0000rior"
-    },
-    {
-        "_id": {
-            "$oid": "673f8282ad63afcad8134ff3"
-        },
-        "book_title": "The Concise Mastery",
-        "book_author": "Robert Greene",
-        "book_description": "Robert Greene, the \"modern Machiavelli\" debunks the prevailing mythology of success and presents a radical new way to greatness.\n",
-        "book_url": "https://openlibrary.org/works/OL17429337W/Mastery?edition=ia%3Aisbn_9781846681561"
-    },
-    {
-        "_id": {
-            "$oid": "673f8283ad63afcad8134ff4"
-        },
-        "book_title": "Shadows Between Us",
-        "book_author": "Tricia Levenseller",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL20814542W/The_Shadows_Between_Us"
-    },
-    {
-        "_id": {
-            "$oid": "673f8284ad63afcad8134ff5"
-        },
-        "book_title": "Why We Sleep",
-        "book_author": "Matthew Walker",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL25870916W/Why_We_Sleep"
-    },
-    {
-        "_id": {
-            "$oid": "673f8284ad63afcad8134ff6"
-        },
-        "book_title": "Have You Seen My Cat? (Chinese Edition)",
-        "book_author": "Eric Carle",
-        "book_description": "A young boy encounters all sorts of cats while searching for the one he lost.\n",
-        "book_url": "https://openlibrary.org/works/OL52990W/Have_You_Seen_My_Cat?edition=ia%3Anikandaowodemaom0000carl"
-    },
-    {
-        "_id": {
-            "$oid": "673f8285ad63afcad8134ff7"
-        },
-        "book_title": "The Secret Garden",
-        "book_author": "Frances Hodgson Burnett",
-        "book_description": "A ten-year-old orphan comes to live in a lonely house on the Yorkshire moors where she discovers an invalid cousin and the mysteries of a locked garden.\n",
-        "book_url": "https://openlibrary.org/works/OL69612W/The_Secret_Garden?edition=ia%3Asecretgarden00burn"
-    },
-    {
-        "_id": {
-            "$oid": "673f8286ad63afcad8134ff8"
-        },
-        "book_title": "My Fault",
-        "book_author": "Mercedes Ron",
-        "book_description": "Noah needs to move to a new city because her mom found love again to mr leistres where she found out that Mr leistres is rich and has a son named “ Nicholas “ where she found out that he is not all perfect son material and goes to party’s and fights and drink etc. Then she deeply falls in love with Nicholas\n",
-        "book_url": "https://openlibrary.org/works/OL34339623W/My_Fault"
-    },
-    {
-        "_id": {
-            "$oid": "673f8288ad63afcad8134ff9"
-        },
-        "book_title": "A Court of Mist and Fury",
-        "book_author": "Sarah J. Maas",
-        "book_description": "Feyre has undergone more trials than one human woman can carry in her heart. Though she's now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people.\n",
-        "book_url": "https://openlibrary.org/works/OL17860744W/A_Court_of_Mist_and_Fury?edition=ia%3Acourtofmistfury0000sara"
-    },
-    {
-        "_id": {
-            "$oid": "673f828aad63afcad8134ffa"
-        },
-        "book_title": "Beyond entrepreneurship",
-        "book_author": "Collins, James C.",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL3486272W/Beyond_entrepreneurship?edition=ia%3Abeyondentreprene00coll"
-    },
-    {
-        "_id": {
-            "$oid": "673f828ead63afcad8134ffb"
-        },
-        "book_title": "Bajo la misma estrella",
-        "book_author": "John Green",
-        "book_description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
-        "book_url": "https://openlibrary.org/works/OL16444438W/The_Fault_in_Our_Stars?edition=ia%3Abajolamismaestre0000gree_b4i6"
-    },
-    {
-        "_id": {
-            "$oid": "673f828ead63afcad8134ffc"
-        },
-        "book_title": "Powerless",
-        "book_author": "Lauren Roberts",
-        "book_description": "She is the very thing he’s spent his whole life hunting.",
-        "book_url": "https://openlibrary.org/works/OL34774028W/Powerless"
-    },
-    {
-        "_id": {
-            "$oid": "673f828fad63afcad8134ffd"
-        },
-        "book_title": "Quién eres tú y qué haces aquí-El Libro de iO",
-        "book_author": "Jesús Yanes",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL34735956W/Qui%C3%A9n_eres_t%C3%BA_y_qu%C3%A9_haces_aqu%C3%AD-El_Libro_de_iO"
-    },
-    {
-        "_id": {
-            "$oid": "673f8292ad63afcad8134ffe"
-        },
-        "book_title": "Unravel Me",
-        "book_author": "Tahereh Mafi",
-        "book_description": "\"Juliette has escaped to Omega Point, the headquarters of the rebel resistance and a safe haven for people with abilities like hers. She is finally free from The Reestablishment and their plans to use her as a weapon, but Warner, her former captor, won't let her go without a fight.\"--\n",
-        "book_url": "https://openlibrary.org/works/OL19963111W/Unravel_me?edition=ia%3Aunravelme0000mafi_l7p5"
-    },
-    {
-        "_id": {
-            "$oid": "673f8292ad63afcad8134fff"
-        },
-        "book_title": "Mountain Is You",
-        "book_author": "Brianna Wiest",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL35351356W/The_Mountain_Is_You"
-    },
-    {
-        "_id": {
-            "$oid": "673f8294ad63afcad8135000"
-        },
-        "book_title": "Siddhartha",
-        "book_author": "Hermann Hesse",
-        "book_description": "Hermann Hesse wrote Siddhartha after he traveled to India in the 1910s. It tells the story of a young boy who travels the country in a quest for spiritual enlightenment in the time of Guatama Buddha. It is a compact, lyrical work, which reads like an allegory about the finding of wisdom.\n",
-        "book_url": "https://openlibrary.org/works/OL872932W/Siddhartha?edition=ia%3Abub_gb_x-7OAAAAMAAJ"
-    },
-    {
-        "_id": {
-            "$oid": "673f8295ad63afcad8135001"
-        },
-        "book_title": "Parable of the sower",
-        "book_author": "Octavia E. Butler",
-        "book_description": "In 2025, with the world descending into madness and anarchy, one woman begins a fateful journey toward a better future.\n",
-        "book_url": "https://openlibrary.org/works/OL35623W/Parable_of_the_sower?edition=ia%3Aparableofsower00butl_0"
-    },
-    {
-        "_id": {
-            "$oid": "673f8295ad63afcad8135002"
-        },
-        "book_title": "Steve Jobs",
-        "book_author": "Walter Isaacson",
-        "book_description": "La muerte de Steve Jobs ha conmocionado al mundo. Tras entrevistarlo en más de cuarenta ocasiones en los últimos dos años, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta la única biografía escrita con la colaboración de Jobs, el retrato definitivo de uno de los iconos indiscutibles de nuestro tiempo, la crónica de la agitada vida y abrasiva personalidad del genio cuya creatividad, energía y afán de perfeccionismo revolucionaron seis industrias: la informática, el cine de animación, la música, la telefonía, las tabletas y la edición digital. Consciente de que la mejor manera de crear valor en el siglo XXI es conectar la creatividad con la tecnología, Jobs fundó una empresa en la que impresionantes saltos de la imaginación van de la mano de asombrosos logros tecnológicos. Aunque Jobs colaboró con el libro, no pidió ningún control sobre el contenido, ni siquiera el derecho a leerlo antes de la publicación. No rehuyó ningún tema y animó a la gente que conocía a hablar con franqueza: «He hecho muchas cosas de las que no me siento orgulloso, como dejar a mi novia embarazada a los veintitrés años y cómo me comporté entonces, pero no hay ningún cadáver en mi armario que no pueda salir a la luz». Jobs habla con sinceridad a veces brutal sobre la gente con la que ha trabajado y contra la que ha competido. De igual modo, sus amigos, rivales y colegas ofrecen una visión sin edulcorar de las pasiones, los demonios, el perfeccionismo, los deseos, el talento, los trucos y la obsesión por controlarlo todo que modelaron su visión empresarial y los innovadores productos que logró crear. Su historia, por tanto, está llena de enseñanzas sobre innovación, carácter, liderazgo y valores. La vida de un genio capaz de enfurecer y seducir a partes iguales.\n",
-        "book_url": "https://openlibrary.org/works/OL16085155W/Steve_Jobs?edition=ia%3Astevejobs0000unse_e1d6"
-    },
-    {
-        "_id": {
-            "$oid": "673f8296ad63afcad8135003"
-        },
-        "book_title": "La batalla del laberinto",
-        "book_author": "Rick Riordan",
-        "book_description": "Percy Jackson isn't expecting freshman orientation to be any fun, but when a mysterious mortal acquaintance appears, pursued by demon cheerleaders, things quickly go from bad to worse. Time is running out for Percy. War between the gods and the Titans is drawing near. Even Camp Half-Blood isn't safe, as Kronos's army prepares to invade its once impenetrable borders. To stop them, Percy and his friends must set out on a quest through the Labyrinth -- a sprawling underground world with surprises and danger at every turn.  Along the way Percy will confront powerful enemies, find out the truth about the lost god Pan, and face the Titan lord Kronos's most terrible secret. The final war begins . . . with the Battle of the Labyrinth. - Publisher.\n",
-        "book_url": "https://openlibrary.org/works/OL492640W/The_Battle_of_the_Labyrinth?edition=ia%3Alabatalladellabe0000rior"
-    },
-    {
-        "_id": {
-            "$oid": "673f8297ad63afcad8135004"
-        },
-        "book_title": "Rica daida, puara daida",
-        "book_author": "Robert T. Kiyosaki",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL28606014W/Rica_daida_puara_daida?edition=ia%3Aricadaidapuarada0000kiyo"
-    },
-    {
-        "_id": {
-            "$oid": "673f8297ad63afcad8135005"
-        },
-        "book_title": "Колгосп тварин",
-        "book_author": "George Orwell",
-        "book_description": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is organised to benefit all who walk on four legs. But as time passes, the ideals of the rebellion are corrupted, then forgotten. And something new and unexpected emerges..\n",
-        "book_url": "https://openlibrary.org/works/OL1168007W/Animal_Farm?edition=ia%3Akolhosptvaryn00orwe"
-    },
-    {
-        "_id": {
-            "$oid": "673f829aad63afcad8135006"
-        },
-        "book_title": "Lessons in Chemistry",
-        "book_author": "Bonnie Garmus",
-        "book_description": "Chemist Elizabeth Zott is not your average woman. In fact, Elizabeth Zott would be the first to point out that there is no such thing as an average woman. But it’s the early 1960s and her all-male team at Hastings Research Institute takes a very unscientific view of equality. Except for one: Calvin Evans; the lonely, brilliant, Nobel–prize nominated grudge-holder who falls in love with—of all things—her mind. True chemistry results.\n",
-        "book_url": "https://openlibrary.org/works/OL25344431W/Lessons_in_Chemistry"
-    },
-    {
-        "_id": {
-            "$oid": "673f829bad63afcad8135007"
-        },
-        "book_title": "Master Your Emotions",
-        "book_author": "Thibaut Meurisse",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL20886991W/Master_Your_Emotions"
-    },
-    {
-        "_id": {
-            "$oid": "673f829bad63afcad8135008"
-        },
-        "book_title": "the perks of being a wallflower",
-        "book_author": "Stephen Chbosky",
-        "book_description": "The Perks of Being a Wallflower is a young adult coming-of-age epistolary novel by American writer Stephen Chbosky, which was first published on February 1, 1999, by Pocket Books. Set in the early 1990s, the novel follows Charlie, an introverted observing teenager, through his freshman year of high school in a Pittsburgh suburb. The novel details Charlie's unconventional style of thinking as he navigates between the worlds of adolescence and adulthood, and attempts to deal with poignant questions spurred by his interactions with both his friends and family.\n",
-        "book_url": "https://openlibrary.org/works/OL875437W/The_Perks_of_Being_a_Wallflower?edition=ia%3Alemondedecharlie0000step"
-    },
-    {
-        "_id": {
-            "$oid": "673f829cad63afcad8135009"
-        },
-        "book_title": "Wimpy Kid. Ikke en dagbog (in Danish)",
-        "book_author": "Jeff Kinney",
-        "book_description": "Greg Heffley finds thrust into middle school, where undersized weaklings like him share the hallways with much bigger kids who are already shaving. But nothing scares Greg more than the moldy piece of cheese on the blacktop. Can he and his best friend, Rowley Jefferson, make it through the year without getting the Cheese Touch?\n",
-        "book_url": "https://openlibrary.org/works/OL8483260W/Diary_of_a_Wimpy_Kid?edition=ia%3Awimpykidikkeenda0000jeff"
-    },
-    {
-        "_id": {
-            "$oid": "673f829ead63afcad813500a"
-        },
-        "book_title": "Thug. L'odi que dónes",
-        "book_author": "Angie Thomas",
-        "book_description": "The Hate U Give is a 2017 young adult novel by Angie Thomas. It is Thomas's debut novel, expanded from a short story she wrote in college in reaction to the police shooting of Oscar Grant. The book is narrated by Starr Carter, a 16-year-old black girl from a poor neighborhood who attends an elite private school in a predominantly white, affluent part of the city. Starr becomes entangled in a national news story after she witnesses a white police officer shoot and kill her childhood friend, Khalil. She speaks up about the shooting in increasingly public ways, and social tensions culminate in a riot after a grand jury decides not to indict the police officer for the shooting.\n",
-        "book_url": "https://openlibrary.org/works/OL17714701W/The_Hate_U_Give?edition=ia%3Athuglodiquedones0000thom"
-    },
-    {
-        "_id": {
-            "$oid": "673f829fad63afcad813500b"
-        },
-        "book_title": "The Berenstain Bears Hug and Make Up (Berenstain Bears)",
-        "book_author": "Mike Berenstain",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL275007W/The_Berenstain_Bears_Hug_and_Make_Up_%28Berenstain_Bears%29?edition=ia%3Aberenstainbearsh00mike"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a1ad63afcad813500c"
-        },
-        "book_title": "The Silent Patient",
-        "book_author": "Alex Michaelides",
-        "book_description": "Alicia Berenson’s life is seemingly perfect. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word. Alicia’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art skyrockets, and she, the silent patient, is hidden away from the tabloids and spotlight at the Grove, a secure forensic unit in North London. Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his own motivations–a search for the truth that threatens to consume him.\n",
-        "book_url": "https://openlibrary.org/works/OL19096402W/The_Silent_Patient"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a2ad63afcad813500d"
-        },
-        "book_title": "Ikigai",
-        "book_author": "Héctor García",
-        "book_description": "\"Bring meaning and joy to all your days with this internationally bestselling guide to the Japanese concept of ikigai -- the happiness of always being busy -- as revealed by the daily habits of the world's longest-living people.\" -- From Amazon.com summary.\n",
-        "book_url": "https://openlibrary.org/works/OL19714233W/Ikigai?edition=ia%3Aikigaijapanesese0000garc"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a5ad63afcad813500e"
-        },
-        "book_title": "Рассказ Служанки",
-        "book_author": "Margaret Atwood",
-        "book_description": "The Handmaid's Tale is a dystopian novel by Canadian author Margaret Atwood, published in 1985. It is set in a near-future New England, in a strongly patriarchal, totalitarian theonomic state, known as the Republic of Gilead, which has overthrown the United States government. The central character and narrator is a woman named Offred, one of the group known as \"handmaids\", who are forcibly assigned to produce children for the \"commanders\" — the ruling class of men in Gilead.\n",
-        "book_url": "https://openlibrary.org/works/OL675783W/The_Handmaid%27s_Tale?edition=ia%3Arasskazsluzhanki0000atwo_y8j3"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a6ad63afcad813500f"
-        },
-        "book_title": "The Maze Runner",
-        "book_author": "James Dashner",
-        "book_description": "When Thomas wakes up in the lift, the only thing he can remember is his first name.  His memory is blank.  But he's not alone.  When the lift's doors open, Thomas finds himself surrounded by kids who welcome him to the Glade--a large, open expanse surrounded by stone walls.  Just like Thomas, the Gladers don't know why or how they got to the Glade.  All they know is that every morning the stone doors to the maze that surrounds them have opened.  Every night they've closed tight.  And every 30 days a new boy has been delivered in the lift.  Thomas was expected.  But the next day, a girl is sent up--the first girl to ever arrive in the Glade.  And more surprising yet is the message she delivers.  Thomas might be more important than he could ever guess.  If only he could unlock the dark secrets buried within his mind.  From the Hardcover edition.\n",
-        "book_url": "https://openlibrary.org/works/OL6027236W/The_Maze_Runner?edition=ia%3Amazerunner0000dash_w6v1"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a6ad63afcad8135010"
-        },
-        "book_title": "Mastering Bitcoin: Unlocking Digital Cryptocurrencies",
-        "book_author": "Andreas M. Antonopoulos",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL19547324W/Mastering_Bitcoin_Unlocking_Digital_Cryptocurrencies?edition=ia%3Amasteringbitcoin0000anto"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a7ad63afcad8135011"
-        },
-        "book_title": "The Love Hypothesis",
-        "book_author": "Ali Hazelwood",
-        "book_description": " ➸ ",
-        "book_url": "https://openlibrary.org/works/OL24178205W/The_Love_Hypothesis"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a8ad63afcad8135012"
-        },
-        "book_title": "Элита",
-        "book_author": "Kiera Cass",
-        "book_description": "Thirty-five girls came to the palace to compete in the Selection. All but six have been sent home. And only one will get to marry Prince Maxon and be crowned princess of Illea.\n",
-        "book_url": "https://openlibrary.org/works/OL16915199W/The_Elite_%28The_Selection_2%29?edition=ia%3Aelita0000cass"
-    },
-    {
-        "_id": {
-            "$oid": "673f82a8ad63afcad8135013"
-        },
-        "book_title": "The cruel prince",
-        "book_author": "Holly Black",
-        "book_description": "Jude was seven years old when her parents were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King. To win a place at the Court, she must defy him, and face the consequences.\n",
-        "book_url": "https://openlibrary.org/works/OL17850410W/The_Cruel_Prince"
-    },
-    {
-        "_id": {
-            "$oid": "673f82aaad63afcad8135014"
-        },
-        "book_title": "101 Essays That Will Change The Way You Think",
-        "book_author": "Brianna Wiest",
-        "book_description": "441 pages ; 22 cm\n",
-        "book_url": "https://openlibrary.org/works/OL23746568W/101_Essays_That_Will_Change_The_Way_You_Think?edition=ia%3A101essaysthatwil0000wies"
-    },
-    {
-        "_id": {
-            "$oid": "673f82abad63afcad8135015"
-        },
-        "book_title": "Yo Se Por Que Canta el Pajaro Enjaulado",
-        "book_author": "Maya Angelou",
-        "book_description": "She was born Marguerite, but her brother Bailey nicknamed her Maya (\"mine\"). As little children they were sent to live with their grandmother in Stamps, Arkansas. Their early world revolved around this remarkable woman and the Store she ran for the black community. White people were more than strangers - they were from another planet. And yet, even unseen they ruled.\n",
-        "book_url": "https://openlibrary.org/works/OL80021W/I_Know_Why_the_Caged_Bird_Sings?edition=ia%3Ayosporqucantaelp0000ange"
-    },
-    {
-        "_id": {
-            "$oid": "673f82adad63afcad8135016"
-        },
-        "book_title": "I hate you--don't leave me",
-        "book_author": "Jerold J. Kreisman",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL4770808W/I_Hate_You_-_Don%27t_Leave_Me"
-    },
-    {
-        "_id": {
-            "$oid": "673f82aead63afcad8135017"
-        },
-        "book_title": "Momo",
-        "book_author": "Michael Ende",
-        "book_description": " is Michael Ende's best-known book, but ",
-        "book_url": "https://openlibrary.org/works/OL2271626W/Momo_oder_Die_seltsame_Geschichte_von_den_Zeit-Dieben_und_von_dem_Kind_das_den_Menschen_die_gestohle?edition=ia%3Amomo0000ende_t0w5"
-    },
-    {
-        "_id": {
-            "$oid": "673f82afad63afcad8135018"
-        },
-        "book_title": "Man's Search for Meaning : Young Adult Edition",
-        "book_author": "Viktor E. Frankl",
-        "book_description": "xvii, 159 pages : 23 cm\n",
-        "book_url": "https://openlibrary.org/works/OL24557376W/Man%27s_Search_for_Meaning_adaptation?edition=ia%3Amanssearchformea0000fran_p2h1"
-    },
-    {
-        "_id": {
-            "$oid": "673f82afad63afcad8135019"
-        },
-        "book_title": "Systems analysis and design",
-        "book_author": "Elias M. Awad",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL2859197W/Systems_analysis_and_design?edition=ia%3Asystemsanalysisd00awad"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b2ad63afcad813501a"
-        },
-        "book_title": "Bundle",
-        "book_author": "Jeffrey D. Camm",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL25400954W/Bundle"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b3ad63afcad813501b"
-        },
-        "book_title": "El Mar de los monstruos",
-        "book_author": "Rick Riordan",
-        "book_description": "\"Desde que sabe que es hijo de un dios y una mortal, Percy Jackson espera que el destino le depare continuas aventuras. Y su expectativa se cumplirá con creces. Aunque el nuevo curso en la Escuela Meriwether transcurre con inusual normalidad, un simple partido de balón prisionero acaba en batalla campal contra una banda de feroces gigantes. A partir de ahí las cosas se precipitan: el perímetro mágico que protege el Campamento Mestizo es destruido por un misterioso enemigo y la única seguridad con que contaban los semidioses desaparece. Así, para impedir este daño irreparable, Percy y sus amigos inician la travesía del temible Mar de los Monstruos en busca de lo único que puede salvar el campamento: el Vellocino de Oro.\"--Page 4 of cover.\n",
-        "book_url": "https://openlibrary.org/works/OL492646W/The_Sea_of_Monsters?edition=ia%3Aelmardelosmonstr0000rior_d0u6"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b4ad63afcad813501c"
-        },
-        "book_title": "Introduction to Psychology",
-        "book_author": "Clifford Thomas Morgan",
-        "book_description": "In this Seventh Edition this have attempted to bring readers up-to-date, an ongoing challenge in our rapidly changing discipline. psychology, like other areas of Knowledge, has its classic theories and studies which from the basis for the much current work. Students should Know about these, too, and we have not negelected them. there is no change, but there is continuity as well.\n",
-        "book_url": "https://openlibrary.org/works/OL5098994W/Introduction_to_Psychology?edition=ia%3Aintroductiontops0000morg_u3s4_5thedi"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b5ad63afcad813501d"
-        },
-        "book_title": "The music of Black Americans",
-        "book_author": "Eileen Southern",
-        "book_description": "Beginning with the arrival of the first Africans in the English colonies, Eileen Southern weaves a fascinating narrative of intense musical activity, which has not only played a vital role in the lives of black Americans but has also deeply influenced music performance in the United States and many other parts of the world. Dr.\n",
-        "book_url": "https://openlibrary.org/works/OL7305250W/The_music_of_black_Americans?edition=ia%3Amusicofblackamer00south"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b6ad63afcad813501e"
-        },
-        "book_title": "The Naturals",
-        "book_author": "Jennifer Lynn Barnes",
-        "book_description": "\"Cassie Hobbes and the other members of the Naturals program of the FBI work to solve a string of serial murders carried out by a copycat killer\"--\n",
-        "book_url": "https://openlibrary.org/works/OL19987694W/Killer_Instinct?edition=ia%3Akillerinstinct0000barn"
-    },
-    {
-        "_id": {
-            "$oid": "673f82b8ad63afcad813501f"
-        },
-        "book_title": "Even More One Liners",
-        "book_author": "Grant Tucker",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL17478898W/Even_More_One_Liners?edition=ia%3Aisbn_9781849546195"
-    },
-    {
-        "_id": {
-            "$oid": "673f82baad63afcad8135020"
-        },
-        "book_title": "Las Meditaciones de Marco Aurelio",
-        "book_author": "Marco Aurelio",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL21983875W/Las_Meditaciones_de_Marco_Aurelio"
-    },
-    {
-        "_id": {
-            "$oid": "673f82baad63afcad8135021"
-        },
-        "book_title": "Harry Potter and the Deathly Hallows",
-        "book_author": "J. K. Rowling",
-        "book_description": "Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.\n",
-        "book_url": "https://openlibrary.org/works/OL82586W/Harry_Potter_and_the_Deathly_Hallows?edition=ia%3Aharrypotterdeath0000rowl_n2u6"
-    },
-    {
-        "_id": {
-            "$oid": "673f82bbad63afcad8135022"
-        },
-        "book_title": "The name it and claim it game",
-        "book_author": "Helen Hadsell",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL4623987W/The_name_it_and_claim_it_game?edition=ia%3Anameitclaimitgam0000hads"
-    },
-    {
-        "_id": {
-            "$oid": "673f82bcad63afcad8135023"
-        },
-        "book_title": "Mindset",
-        "book_author": "Carol S. Dweck",
-        "book_description": "Reveals how established attitudes affect all aspects of one's life, explains the differences between fixed and growth mindsets, and stresses the need to be open to change in order to achieve fulfillment and success.\n",
-        "book_url": "https://openlibrary.org/works/OL2003465W/Mindset?edition=ia%3Amindsetnewpsycho00dwec_515"
-    },
-    {
-        "_id": {
-            "$oid": "673f82bead63afcad8135024"
-        },
-        "book_title": "Mildred and Sam (I Can Read Book 2)",
-        "book_author": "Sharleen Collicott",
-        "book_description": "Mildred and Sam live in a tiny burrow underneath the daffodil roots. Sam is happy. Mildred is fidgety. No matter how hard Sam tries to fix up their house, Mildred insists that it is too small, especially if they ever have visitors.\n",
-        "book_url": "https://openlibrary.org/works/OL3961963W/Mildred_and_Sam?edition=ia%3Amildredsamicanre00shar"
-    },
-    {
-        "_id": {
-            "$oid": "673f82bead63afcad8135025"
-        },
-        "book_title": "The private diary of Lyle Menendez",
-        "book_author": "Lyle Menendez",
-        "book_description": "The personal story of Lyle Menendez is based on a four-and-a-half-year intimate correspondence with the author and covers the murders of Jose and Kitty Menendez by Lyle and his brother Erik and the court trials that ended in hung juries.\n",
-        "book_url": "https://openlibrary.org/works/OL3151202W/The_private_diary_of_Lyle_Menendez?edition=ia%3Aprivatediaryofly0000mene"
-    },
-    {
-        "_id": {
-            "$oid": "673f82bead63afcad8135026"
-        },
-        "book_title": "Back mechanic",
-        "book_author": "Stuart McGill",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL29239872W/Back_mechanic?edition=ia%3Abackmechanicsecr0000mcgi"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c1ad63afcad8135027"
-        },
-        "book_title": "Hunting Adeline",
-        "book_author": "H. D. Carlton",
-        "book_description": "The final installment to the Cat and Mouse Duet...\n",
-        "book_url": "https://openlibrary.org/works/OL27297240W/Hunting_Adeline"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c1ad63afcad8135028"
-        },
-        "book_title": "Essentials of Anatomy and Physiology for Nursing Practice",
-        "book_author": "Jennifer Boore",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL21125019W/Essentials_of_Anatomy_and_Physiology_for_Nursing_Practice?edition=ia%3Aessentialsofanat0000boor"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c4ad63afcad8135029"
-        },
-        "book_title": "The Green Mile",
-        "book_author": "Stephen King",
-        "book_description": "The Green Mile is a 1996 serial novel by American writer Stephen King. It tells the story of death row supervisor Paul Edgecombe's encounter with John Coffey, an unusual inmate who displays inexplicable healing and empathetic abilities. The serial novel was originally released in six volumes before being republished as a single-volume work. The book is an example of magical realism.\n",
-        "book_url": "https://openlibrary.org/works/OL81629W/The_Green_Mile?edition=ia%3Agreenmile0000unse"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c6ad63afcad813502a"
-        },
-        "book_title": "His Brother's Wife",
-        "book_author": "Val Wood",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL25145936W/His_Brother%27s_Wife?edition=ia%3Ahisbrotherswife0000wood_v1v6"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c7ad63afcad813502b"
-        },
-        "book_title": "Koralina",
-        "book_author": "Neil Gaiman",
-        "book_description": "Dzień po przeprowadzce Koralina udała się na poszukiwania....\n",
-        "book_url": "https://openlibrary.org/works/OL679358W/Coraline?edition=ia%3Akoralina0000gaim_r8g4"
-    },
-    {
-        "_id": {
-            "$oid": "673f82c9ad63afcad813502c"
-        },
-        "book_title": "The Prophet",
-        "book_author": "Kahlil Gibran",
-        "book_description": "Reflections by the Lebanese-American poet, mystic, and painter on such subjects as love, marriage, joy and sorrow, crime and punishment, pain, and self-knowlege.\n",
-        "book_url": "https://openlibrary.org/works/OL318900W/The_Prophet?edition=ia%3Aprophetannotated0000unse"
-    },
-    {
-        "_id": {
-            "$oid": "673f82caad63afcad813502d"
-        },
-        "book_title": "Türkiyenin Yakin Tarihi",
-        "book_author": "Ilber Ortayli",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL26274133W/T%C3%BCrkiyenin_Yakin_Tarihi"
-    },
-    {
-        "_id": {
-            "$oid": "673f82ccad63afcad813502e"
-        },
-        "book_title": "Foundation and Empire",
-        "book_author": "Isaac Asimov",
-        "book_description": "Led by its founding father, the great psychohistorian Hari Seldon, and taking advantage of its superior science and technology, the Foundation has survived the greed and barbarism of its neighboring warrior-planets. Yet now it must face the Empire still the mightiest force in the Galaxy even in its death throes. When an ambitious general determined to restore the Empire's glory turns the vast Imperial fleet toward the Foundation, the only hope for the small planet of scholars and scientists lies in the prophecies of Hari Seldon.\n",
-        "book_url": "https://openlibrary.org/works/OL46224W/Foundation_and_Empire?edition=ia%3Afondationetempir0000asim"
-    },
-    {
-        "_id": {
-            "$oid": "673f82cdad63afcad813502f"
-        },
-        "book_title": "Der Weg der Könige",
-        "book_author": "Brandon Sanderson",
-        "book_description": "Widely acclaimed for his work completing Robert Jordan’s Wheel of Time saga, Brandon Sanderson now begins a grand cycle of his own, one every bit as ambitious and immersive.\n",
-        "book_url": "https://openlibrary.org/works/OL15358691W/The_Way_of_Kings?edition=ia%3Aderwegderknigero0000bran"
-    },
-    {
-        "_id": {
-            "$oid": "673f82cdad63afcad8135030"
-        },
-        "book_title": "How to turn people into gold",
-        "book_author": "Kenneth M. Goode",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL7566008W/How_to_turn_people_into_gold"
-    },
-    {
-        "_id": {
-            "$oid": "673f82cead63afcad8135031"
-        },
-        "book_title": "Szklany tron",
-        "book_author": "Sarah J. Maas",
-        "book_description": "Siedemnastoletnia Celaena jest wyszkolonym zabójcą, jednym z najlepszych, ale popełniła fatalny błąd. Została złapana i skazana na dożywotnią niewolniczą pracę w kopalni soli Endovier. Książę Dorian składa jej ofertę. Celaena musi walczyć na śmierć i życie w turnieju o tytuł królewskiego zabójcy. Jeśli wygra – będzie wolna, jeśli przegra – jej wybawieniem będzie śmierć. Uczestnicy turnieju giną w tajemniczych okolicznościach. Czy Celaena zdoła zdemaskować zabójcę zanim sama stanie się ofiarą?\n",
-        "book_url": "https://openlibrary.org/works/OL16607146W/Throne_of_Glass?edition=ia%3Aisbn_9788377478844"
-    },
-    {
-        "_id": {
-            "$oid": "673f82cfad63afcad8135032"
-        },
-        "book_title": "The Jew and human sacrifice",
-        "book_author": "Strack, Hermann Leberecht",
-        "book_description": null,
-        "book_url": "https://openlibrary.org/works/OL1323315W/The_Jew_and_human_sacrifice?edition=ia%3Acu31924074315833"
-    },
-    {
-        "_id": {
-            "$oid": "673f82d1ad63afcad8135033"
-        },
-        "book_title": "The Power of Positive Thinking",
-        "book_author": "Norman Vincent Peale",
-        "book_description": "In this phenomenal bestseller, “written with the sole objective of helping the reader achieve a happy, satisfying, and worthwhile life,” Dr. Peale demonstrates the power of faith in action. With the practical techniques outlined in this book, you can energize your life—and give yourself the initiative needed to carry out your ambitions and hopes. You’ll learn how to:\n",
-        "book_url": "https://openlibrary.org/works/OL2917168W/The_Power_of_Positive_Thinking?edition=ia%3Alp_the-power-of-positive-thinking_dr-norman-vincent-peale"
-    },
-    {
-        "_id": {
-            "$oid": "673f82d1ad63afcad8135034"
-        },
-        "book_title": "Twisted Games",
-        "book_author": "Ana Huang",
-        "book_description": "She can never be his…but he’s taking her anyway.\n",
-        "book_url": "https://openlibrary.org/works/OL25515697W/Twisted_Games"
-    },
-    {
-        "_id": {
-            "$oid": "673f82d3ad63afcad8135035"
-        },
-        "book_title": "Think and Grow Rich",
-        "book_author": "Napoleon Hill",
-        "book_description": "Napoleon Hill's quintessential volume Think and grow rich, the all-time bestseller in the field of professional success, outlines the laws of success and sets the standard of today's motivational thinking.\n",
-        "book_url": "https://openlibrary.org/works/OL527464W/Think_and_Grow_Rich?edition=ia%3Athinkgrowrichtea0000napo"
-    },
-    {
-        "_id": {
-            "$oid": "673f82d3ad63afcad8135036"
+            "$oid": "67422e7e8868e4abd7479520"
         },
         "book_title": "The art of war",
         "book_author": "Sun Tzu",
         "book_description": "The Art of War is an ancient Chinese military treatise dating from the Late Spring and Autumn Period. The work, which is attributed to the ancient Chinese military strategist Sun Tzu\n",
-        "book_url": "https://openlibrary.org/works/OL244537W/The_Art_of_War?edition=ia%3Aartofwaroldestmi00suntuoft"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/7883930-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL244537W/The_Art_of_War?edition=ia%3Aartofwaroldestmi00suntuoft",
+        "image_file_path": "photos/The art of war__0b0b094beab644664b3aaba9e96430fb212c26e5.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82d4ad63afcad8135037"
+            "$oid": "67422e7e8868e4abd7479521"
+        },
+        "book_title": "Harry Potter y la piedra filosofal",
+        "book_author": "J. K. Rowling",
+        "book_description": "Harry Potter #1\n",
+        "image_urls": [
+            "https:https://archive.org/download/harrypotterylapi0000rowl_q5r6/page/cover_w180_h360.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL82563W/Harry_Potter_and_the_Philosopher%27s_Stone?edition=ia%3Aharrypotterylapi0000rowl_q5r6",
+        "image_file_path": "photos/Harry Potter y la piedra filosofal__ab7b658adcf0f99fbf9d14fcd55fc630e63f9fe4.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e7f8868e4abd7479522"
         },
         "book_title": "A Sutil Arte de Ligar o F*da-se",
         "book_author": "Mark Manson",
         "book_description": "In this book, blogger and former internet entrepreneur Mark Manson explains in simple, no expletives barred terms how to achieve happiness by caring more about fewer things and not caring at all about more.",
-        "book_url": "https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=ia%3Asutilartedeligar0000mark"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8577361-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=ia%3Asutilartedeligar0000mark",
+        "image_file_path": "photos/A Sutil Arte de Ligar o F*da-se__f559571ab68767d7933b877b5844ed8c34a90963.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82d5ad63afcad8135038"
+            "$oid": "67422e808868e4abd7479523"
         },
-        "book_title": "Read People Like a Book",
-        "book_author": "Patrick King",
-        "book_description": "Speed read people, decipher body language, detect lies, and understand human nature.",
-        "book_url": "https://openlibrary.org/works/OL25291486W/Read_People_Like_a_Book"
+        "book_title": "Haunting Adeline",
+        "book_author": "H. D. Carlton",
+        "book_description": "\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14811848-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL27310398W/Haunting_Adeline",
+        "image_file_path": "photos/Haunting Adeline__d9efc9b814b9cff35a304fabde3c343d5363daa3.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82d7ad63afcad8135039"
+            "$oid": "67422e808868e4abd7479524"
+        },
+        "book_title": "The Seven Husbands of Evelyn Hugo",
+        "book_author": "Taylor Jenkins Reid",
+        "book_description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. Why her? Why now?\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14640942-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL18203673W/The_Seven_Husbands_of_Evelyn_Hugo",
+        "image_file_path": "photos/The Seven Husbands of Evelyn Hugo__7ec85bb3ad0b3462c21518710edbd79b89d1313f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e808868e4abd7479525"
+        },
+        "book_title": "Szklany tron",
+        "book_author": "Sarah J. Maas",
+        "book_description": "Siedemnastoletnia Celaena jest wyszkolonym zabójcą, jednym z najlepszych, ale popełniła fatalny błąd. Została złapana i skazana na dożywotnią niewolniczą pracę w kopalni soli Endovier. Książę Dorian składa jej ofertę. Celaena musi walczyć na śmierć i życie w turnieju o tytuł królewskiego zabójcy. Jeśli wygra – będzie wolna, jeśli przegra – jej wybawieniem będzie śmierć. Uczestnicy turnieju giną w tajemniczych okolicznościach. Czy Celaena zdoła zdemaskować zabójcę zanim sama stanie się ofiarą?\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8174281-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL16607146W/Throne_of_Glass?edition=ia%3Aisbn_9788377478844",
+        "image_file_path": "photos/Szklany tron__62f9a6524ef915cb46bee19bee0de19499022b3d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e818868e4abd7479526"
+        },
+        "book_title": "Data Structures Through C in Depth",
+        "book_author": "S.K. Srivastava",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13274511-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL33652784W/Data_Structures_Through_C_in_Depth?edition=ia%3Adatastructuresth0000sksr",
+        "image_file_path": "photos/Data Structures Through C in Depth__7b764fd08af17ebf37856df32c5153495b9efc6d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e828868e4abd7479527"
+        },
+        "book_title": "人性的弱点",
+        "book_author": "Dale Carnegie",
+        "book_description": "Available for the first time ever in trade paperback, Dale Carnegie's enduring classic, the inspirational personal development guide that shows how to achieve lifelong success. One of the top-selling books of all time, \"How to Win Friends & Influence People\" has sold more than 15 million copies in all its editions.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14548358-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1063267W/How_to_Win_Friends_and_Influence_People?edition=ia%3Arenxingderuodian0000kane_h0y9",
+        "image_file_path": "photos/人性的弱点__bb122c07adf91190a99975e095ec48db9d48c509.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e828868e4abd7479528"
+        },
+        "book_title": "The happiness advantage",
+        "book_author": "Shawn Achor",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10657990-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL15674042W/The_happiness_advantage?edition=ia%3Ahappinessadvanta0000acho",
+        "image_file_path": "photos/The happiness advantage__451883036241ee483bd00f0c2b2ea4e0d13b9c99.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e838868e4abd7479529"
+        },
+        "book_title": "Inmate",
+        "book_author": "Freida McFadden",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14595399-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL36525897W/The_Inmate",
+        "image_file_path": "photos/Inmate__63104af744252e9e7e75625f43b996ecb26f7d76.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e848868e4abd747952a"
+        },
+        "book_title": "Harry Potter et la Chambre des Secrets",
+        "book_author": "J. K. Rowling",
+        "book_description": "Throughout the summer holidays after his first year at Hogwarts School of Witchcraft and Wizardry, Harry Potter has been receiving sinister warnings from a house-elf called Dobby.\n",
+        "image_urls": [
+            "https:https://archive.org/download/harrypottertome20000jkro/page/cover_w180_h360.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL82537W/Harry_Potter_and_the_Chamber_of_Secrets?edition=ia%3Aharrypottertome20000jkro",
+        "image_file_path": "photos/Harry Potter et la Chambre des Secrets__4eda9ee2b2784c84059180ba9148b96993e7650e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e848868e4abd747952b"
+        },
+        "book_title": "Forgotten Home Apothecary",
+        "book_author": "Nicole Apelian",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14824082-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL41892022W/Forgotten_Home_Apothecary",
+        "image_file_path": "photos/Forgotten Home Apothecary__2b7299f533b80e2dbd284fb71fd461b65b04b0cb.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e848868e4abd747952c"
+        },
+        "book_title": "Gentle Reminder",
+        "book_author": "Bianca Sparacino",
+        "book_description": "A gentle reminder for the days you feel light in this world, and for the days in which the sun rises a little slower. A gentle reminder for when your heart is full of hope and for when you are learning how to heal it. A gentle reminder for when you finally begin to trust in the goodness and for when you need the kind of words that hug your broken pieces back together.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14424196-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL25296570W/A_Gentle_Reminder",
+        "image_file_path": "photos/Gentle Reminder__18d5b14ad4ef3bdd1424859b5e1aa07268161fcd.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e858868e4abd747952d"
+        },
+        "book_title": "Hidden Hindu",
+        "book_author": "Akshat Gupta",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14577264-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL35603160W/The_hidden_hindu",
+        "image_file_path": "photos/Hidden Hindu__04be60515ff11b1bc834ebd6845e0fd4ba374228.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e908868e4abd747952e"
+        },
+        "book_title": "La Métamorphose ",
+        "book_author": "Franz Kafka",
+        "book_description": "Metamorphosis (German: Die Verwandlung) is a novella written by Franz Kafka which was first published in 1915. One of Kafka's best-known works, Metamorphosis tells the story of salesman Gregor Samsa, who wakes one morning to find himself inexplicably transformed into a huge insect (German: ungeheueres Ungeziefer, lit. \"monstrous vermin\") and subsequently struggles to adjust to this new condition. The novella has been widely discussed among literary critics, with differing interpretations being offered. In popular culture and adaptations of the novella, the insect is commonly depicted as a cockroach.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/971344-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL498556W/Die_Verwandlung?edition=ia%3Alamtamorphosedes0000fran",
+        "image_file_path": "photos/La Métamorphose __114c4dc17b16839c174d3116a6f6fb30c6f0089a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e918868e4abd747952f"
+        },
+        "book_title": "Lo straniero",
+        "book_author": "Albert Camus",
+        "book_description": " est le premier roman publié d’Albert Camus, paru en 1942. Il prend place dans la tétralogie que Camus nommera « cycle de l’absurde » qui décrit les fondements de la philosophie camusienne : l’absurde. Le roman a été traduit en soixante-huit langues.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13012569-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1230613W/L%E2%80%99%C3%A9tranger?edition=ia%3Alostraniero0000camu",
+        "image_file_path": "photos/Lo straniero__e1d116088a88502e9853676f3d21d8cb74dd4c77.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e928868e4abd7479530"
+        },
+        "book_title": "Twisted Games",
+        "book_author": "Ana Huang",
+        "book_description": "She can never be his…but he’s taking her anyway.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12821465-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL25515697W/Twisted_Games",
+        "image_file_path": "photos/Twisted Games__c44e813a3601bd04cadc854ab39c49bc91d0768a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e938868e4abd7479531"
+        },
+        "book_title": "Um casamento arranjado",
+        "book_author": "Zana Kheiron",
+        "book_description": "Uma historia de uma familia falida q faz acordo com outra familia rica e sua filha mais velha e cedida em troca. O filho da família rica teve um acidente de avião que queimou 50% do seu corpo e casa c essa linda moca e se apaixonam\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14538269-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL35351151W/Um_casamento_arranjado",
+        "image_file_path": "photos/Um casamento arranjado__2db880418894b7ae6c582030eb3763ee60480775.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e938868e4abd7479532"
+        },
+        "book_title": "Wimpy Kid. Ikke en dagbog (in Danish)",
+        "book_author": "Jeff Kinney",
+        "book_description": "Greg Heffley finds thrust into middle school, where undersized weaklings like him share the hallways with much bigger kids who are already shaving. But nothing scares Greg more than the moldy piece of cheese on the blacktop. Can he and his best friend, Rowley Jefferson, make it through the year without getting the Cheese Touch?\n",
+        "image_urls": [
+            "https:https://archive.org/download/wimpykidikkeenda0000jeff/page/cover_w180_h360.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL8483260W/Diary_of_a_Wimpy_Kid?edition=ia%3Awimpykidikkeenda0000jeff",
+        "image_file_path": "photos/Wimpy Kid. Ikke en dagbog (in Danish)__6e135ed4511c6f3f8b1ce8f540b63243d88f0144.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e948868e4abd7479533"
+        },
+        "book_title": "L'art de la séduction",
+        "book_author": "Robert Greene",
+        "book_description": "This mesmerizing exploration of the most subtle, elusive, and effective form of power is a masterful analysis of civilization's greatest seducers, from Cleopatra to JFK, as well as the classic literature of seduction from Freud to Kierkegaard and Ovid to Casanova. Robert Greene once again identifies the rules of a timeless, amoral game and explores how to cast a spell, break down resistance, and, ultimately, compel a target to surrender. Presenting the timeless profiles of each type of seducer and the twenty-four maneuvers that will guide you step by step in the game of seduction, The Art of Seduction is an indispensable primer of persuasion that reveals the timeless power of this age-old art.\n",
+        "image_urls": [
+            "https:https://archive.org/download/lartdelascuction0000robe/page/cover_w180_h360.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1968364W/The_Art_of_Seduction?edition=ia%3Alartdelascuction0000robe",
+        "image_file_path": "photos/L'art de la séduction__2adbf17e98966033aeb0e2e1f026f483cc08ab27.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e958868e4abd7479534"
+        },
+        "book_title": "CREPUSCULO",
+        "book_author": "Stephenie Meyer",
+        "book_description": "Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14352259-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5720023W/Twilight?edition=ia%3Acrepusculounamor0000meye_f9f1",
+        "image_file_path": "photos/CREPUSCULO__eef8e40ddd93f9c0b113e3c80fb1f00350887a78.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e978868e4abd7479535"
+        },
+        "book_title": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+        "book_author": "Stephen R. Covey",
+        "book_description": "\n   ",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14646922-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2629977W/The_7_Habits_of_Highly_Effective_People?edition=ia%3Aos7hbitosdaspess0000inva",
+        "image_file_path": "photos/Os 7 Hábitos das Pessoas Altamente Eficazes__e3be3023d61b17231dd65584681ce7bb08208086.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e978868e4abd7479536"
+        },
+        "book_title": "Alchemik",
+        "book_author": "Paulo Coelho",
+        "book_description": "Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8501951-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL796465W/The_Alchemist?edition=ia%3Aalchemik0000coel",
+        "image_file_path": "photos/Alchemik__8264001c7e6479577fa0636b93de664ab3022af9.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e988868e4abd7479537"
+        },
+        "book_title": "Ikigai",
+        "book_author": "Héctor García",
+        "book_description": "\"Bring meaning and joy to all your days with this internationally bestselling guide to the Japanese concept of ikigai -- the happiness of always being busy -- as revealed by the daily habits of the world's longest-living people.\" -- From Amazon.com summary.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14820457-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL19714233W/Ikigai?edition=ia%3Aikigaijapanesese0000garc",
+        "image_file_path": "photos/Ikigai__d0ac31fc7ba5200471ce9b7705f03126b17851c7.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422e998868e4abd7479538"
+        },
+        "book_title": "It Starts With Us",
+        "book_author": "Colleen Hoover",
+        "book_description": "Before It Ends with Us, it started with Atlas. Colleen Hoover tells fan favorite Atlas’s side of the story and shares what comes next in this long-anticipated sequel to the “glorious and touching” (USA TODAY) #1 New York Times bestseller It Ends with Us\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13145647-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL27733867W/It_Starts_with_Us",
+        "image_file_path": "photos/It Starts With Us__7b34dfd8893e6771d8e12b832d91ec51e09d12c2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea28868e4abd7479539"
+        },
+        "book_title": "1984",
+        "book_author": "George Orwell",
+        "book_description": "Nineteen Eighty-Four: A Novel, often referred to as 1984, is a dystopian social science fiction novel by the English novelist George Orwell (the pen name of Eric Arthur Blair). It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society. Orwell, himself a democratic socialist, modelled the authoritarian government in the novel after Stalinist Russia. More broadly, the novel examines the role of truth and facts within politics and the ways in which they are manipulated.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12725444-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1168083W/Nineteen_Eighty-Four?edition=ia%3A19840000aowe",
+        "image_file_path": "photos/1984__e88e3dc02e775a8476f03c5d3c27518088522a21.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea48868e4abd747953a"
+        },
+        "book_title": "Eine kurze Geschichte der Menschheit",
+        "book_author": "Yuval Noah Harari",
+        "book_description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.”\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14622876-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17075811W/Sapiens?edition=ia%3Aeinekurzegeschic0000yuva",
+        "image_file_path": "photos/Eine kurze Geschichte der Menschheit__c50c3016270ad1c4ffeefa0ee862067e433c5e89.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea68868e4abd747953b"
+        },
+        "book_title": "Icebreaker",
+        "book_author": "Hannah Grace",
+        "book_description": "\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13180728-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL28952677W/Icebreaker",
+        "image_file_path": "photos/Icebreaker__df254d8dcb1be1ee55b560ecdfea3449b3e4a955.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea78868e4abd747953c"
+        },
+        "book_title": "饥饿游戏",
+        "book_author": "Suzanne Collins",
+        "book_description": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins. It is written in the perspective of 16-year-old Katniss Everdeen, who lives in the future, post-apocalyptic nation of Panem in North America. The Capitol, a highly advanced metropolis, exercises political control over the rest of the nation. The Hunger Games is an annual event in which one boy and one girl aged 12–18 from each of the twelve districts surrounding the Capitol are selected by lottery to compete in a televised battle royale to the death.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12996671-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games?edition=ia%3Ajieyouxii0001coll",
+        "image_file_path": "photos/饥饿游戏__79739b47cc7cd79e29917a4ac0cbdc39e6411244.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea88868e4abd747953d"
+        },
+        "book_title": "Za shīkuretto",
+        "book_author": "Rhonda Byrne",
+        "book_description": "Fragments of a Great Secret have been found in the oral traditions, in literature, in religions and philosophies throughout the centuries. For the first time, all the pieces of The Secret come together in an incredible revelation that will be life-transforming for all who experience it. In this book, you'll learn how to use The Secret in every aspect of your life - money, health, relationships, happiness, and in every interaction you have in the world. You'll begin to understand the hidden, untapped power that's within you, and this revelation can bring joy to every aspect of your life. The Secret contains wisdom from modern-day teachers - men and women who have used it to achieve health, wealth, and happiness. By applying the knowledge of The Secret, they bring to light compelling stories of eradicating disease, acquiring massive wealth, overcoming obstacles, and achieving what many would regard as impossible.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9524145-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL15839737W/The_Secret?edition=ia%3Azashikurettosecr00byrn",
+        "image_file_path": "photos/Za shīkuretto__037c3d8c80febfcb6abdf1a71c65bcb6c1934d21.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea98868e4abd747953e"
+        },
+        "book_title": "Es.",
+        "book_author": "Stephen King",
+        "book_description": "\"",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14654117-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL81613W/It?edition=ia%3Aesroman0000king_s8m4",
+        "image_file_path": "photos/Es.__b31bbd269eadaf8342164e1185dfb9354ed41363.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ea98868e4abd747953f"
+        },
+        "book_title": "Deep Work",
+        "book_author": "Cal Newport",
+        "book_description": "One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14408629-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17713267W/Deep_Work?edition=ia%3Adeepworkrulesfor0000newp",
+        "image_file_path": "photos/Deep Work__a12448a6d871a17a59a95ee965a0420b3279ccb2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eaa8868e4abd7479540"
+        },
+        "book_title": "The Annotated Charlotte's Web",
+        "book_author": "E. B. White",
+        "book_description": "Charlotte's Web may be America's best-loved children's book today. Its plot is seamless, its characters poignant and unforgettable, and the writing a marvel of ease and fluency. In fact, thought. E. B. White labored tirelessly over eight manuscript drafts, thoroughly researched the habits of spiders, and meditated on the lives of pigs. THE ANNOTATED CHARLOTTE'S WEB opens the door to the creator's workshop and allows the reader to glance over the shoulder of one of the most exacting and fastidious American writers as he forms his masterpiece. Included are:",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14822088-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL483391W/Charlotte%27s_Web?edition=ia%3Aannotatedcharlot00neum",
+        "image_file_path": "photos/The Annotated Charlotte's Web__fda7f6cc9df881dfdc6cbc53000d28f51790218b.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eab8868e4abd7479541"
+        },
+        "book_title": "Hunting Adeline",
+        "book_author": "H. D. Carlton",
+        "book_description": "The final installment to the Cat and Mouse Duet...\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14614757-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL27297240W/Hunting_Adeline",
+        "image_file_path": "photos/Hunting Adeline__71030bd4279f5986970d4f4ac2edd3ac816216d5.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eac8868e4abd7479542"
+        },
+        "book_title": "The Hobbit",
+        "book_author": "J.R.R. Tolkien",
+        "book_description": "The Hobbit is a tale of high adventure, undertaken by a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving unambitious hobbit, who surprises even himself by his resourcefulness and skill as a burglar.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14627222-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL27482W/The_Hobbit?edition=ia%3Ahobbitortherebac00tolk_2",
+        "image_file_path": "photos/The Hobbit__7d0a9c587358bbdbad2e7c60196df201a51cce55.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ead8868e4abd7479543"
+        },
+        "book_title": "The power of now",
+        "book_author": "Eckhart Tolle",
+        "book_description": "Eckhart Tolle has emerged as one of today's most inspiring teachers. In The Power of Now, already a worldwide bestseller, the author describes his transition from despair to self-realization soon after his 29th birthday. Tolle took another ten years to understand this transformation, during which time he evolved a philosophy that has parallels in Buddhism, relaxation techniques, and meditation theory but is also eminently practical. In The Power of Now he shows readers how to recognize themselves as the creators of their own pain, and how to have a pain-free existence by living fully in the present. Accessing the deepest self, the true self, can be learned, he says, by freeing ourselves from the conflicting, unreasonable demands of the mind and living \"present, fully, and intensely, in the Now.\"\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/832489-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5727686W/The_Power_of_Now?edition=ia%3Apowerofnowguid00toll",
+        "image_file_path": "photos/The power of now__5f58f9199717d554fc27fb94b39f2c93dd80bce9.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ead8868e4abd7479544"
+        },
+        "book_title": "Emotional intelligence",
+        "book_author": "Daniel Goleman",
+        "book_description": "Everyone knows that high IQ is no guarantee of success, happiness, or virtue, but until Emotional Intelligence, we could only guess why. Daniel Goleman's brilliant report from the frontiers of psychology and neuroscience offers startling new insight into our “two minds”—the rational and the emotional—and how they together shape our destiny.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14647555-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1878301W/Emotional_Intelligence?edition=ia%3Aemotionalintelli00gole",
+        "image_file_path": "photos/Emotional intelligence__1848f14915415c6a6c2362ee085d71e16aba269c.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ead8868e4abd7479545"
+        },
+        "book_title": "Колгосп тварин",
+        "book_author": "George Orwell",
+        "book_description": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is organised to benefit all who walk on four legs. But as time passes, the ideals of the rebellion are corrupted, then forgotten. And something new and unexpected emerges..\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11262122-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1168007W/Animal_Farm?edition=ia%3Akolhosptvaryn00orwe",
+        "image_file_path": "photos/Колгосп тварин__01d560febe0d37f708d011cd01c08dda5717fec4.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eae8868e4abd7479546"
+        },
+        "book_title": "Analisis laporan keuangan",
+        "book_author": "Kasmir",
+        "book_description": "Bagi perusahaan, khususnya pemilik perusahaan dan manajemen, untuk dapat mudah memahami sebuah laporan keuangan, diperlukan suatu analisis yang dilakukan dengan menggunakan rasio-rasio keuangan. Hasil analisis inilah yang dapat memberikan gambaran kondisi perushaan yang sekaligus dapat memudahkan manajemen dalam menentukan arah dan tujuan perushaan di masa yang akan dating. Tentunya sudah menjadi keharusan bagi mereka yang bergelut dalam bidang keuangan untuk memahami dan menggunakan rasio-rasio keuangan dengan tepat.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11404768-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24150964W/Analisis_laporan_keuangan",
+        "image_file_path": "photos/Analisis laporan keuangan__93761942e595a415dcc1b92d172ecf154bc44a83.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eaf8868e4abd7479547"
+        },
+        "book_title": "华氏451",
+        "book_author": "Ray Bradbury",
+        "book_description": "Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury. Often regarded as one of his best works, the novel presents a future American society where books are outlawed and \"firemen\" burn any that are found. The book's tagline explains the title as \"'the temperature at which book paper catches fire, and burns\": the autoignition temperature of paper. The lead character, Guy Montag, is a fireman who becomes disillusioned with his role of censoring literature and destroying knowledge, eventually quitting his job and committing himself to the preservation of literary and cultural writings.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12971854-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL103123W/Fahrenheit_451?edition=ia%3Ahuashi4510000unse",
+        "image_file_path": "photos/华氏451__e1ba3aea4b6eeaecde5599794e1224f101869981.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eaf8868e4abd7479548"
+        },
+        "book_title": "Study Guide",
+        "book_author": "SuperSummary",
+        "book_description": "nice\n",
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL21868175W/Study_Guide",
+        "image_file_path": "photos/Study Guide__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eb28868e4abd7479549"
+        },
+        "book_title": "Pride and Prejudice",
+        "book_author": "Jane Austen",
+        "book_description": "345 p. :\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14618738-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL66554W/Pride_and_Prejudice?edition=ia%3Abwb_KS-179-237",
+        "image_file_path": "photos/Pride and Prejudice__5fe488b58f0c14dd4ad342d8dfdb38b8c5add643.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eb48868e4abd747954a"
+        },
+        "book_title": "Powerless",
+        "book_author": "Lauren Roberts",
+        "book_description": "She is the very thing he’s spent his whole life hunting.",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14644147-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL34774028W/Powerless",
+        "image_file_path": "photos/Powerless__9a0fa358a1b4376b4ca30f827aa458c063f05f5d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eb78868e4abd747954b"
+        },
+        "book_title": "The Silent Patient",
+        "book_author": "Alex Michaelides",
+        "book_description": "Alicia Berenson’s life is seemingly perfect. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word. Alicia’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art skyrockets, and she, the silent patient, is hidden away from the tabloids and spotlight at the Grove, a secure forensic unit in North London. Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his own motivations–a search for the truth that threatens to consume him.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8415060-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL19096402W/The_Silent_Patient",
+        "image_file_path": "photos/The Silent Patient__524cd8e009cac5f0ec5fd17bd2d449f557844f4d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eb88868e4abd747954c"
+        },
+        "book_title": "Cinquante nuances de Grey",
+        "book_author": "E. L. James",
+        "book_description": "When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14566719-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL16336633W/Fifty_Shades_of_Grey?edition=ia%3Acinquantenuances0000jame",
+        "image_file_path": "photos/Cinquante nuances de Grey__c968ead28ad115f327019ee99d1cb10a67a60aa2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eb88868e4abd747954d"
+        },
+        "book_title": "fuat shit",
+        "book_author": "Hannah Grace",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14567771-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL37523358W/Ice_breaker",
+        "image_file_path": "photos/fuat shit__28cf2db9d66290e076aa8cb09a8f88db4afe2a2f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eba8868e4abd747954e"
+        },
+        "book_title": "The Love Hypothesis",
+        "book_author": "Ali Hazelwood",
+        "book_description": " ➸ ",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14625462-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24178205W/The_Love_Hypothesis",
+        "image_file_path": "photos/The Love Hypothesis__5ed4594d335d8dcf0d82dcd57609efa49e163ad1.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ebb8868e4abd747954f"
+        },
+        "book_title": "Six of Crows",
+        "book_author": "Leigh Bardugo",
+        "book_description": "A convict with a thirst for revenge.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14357964-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17332479W/Six_of_Crows?edition=ia%3Asixofcrows0000leig",
+        "image_file_path": "photos/Six of Crows__fb8b2dbf92bacc42634191fc1722d13fbd83ec39.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ebd8868e4abd7479550"
+        },
+        "book_title": "The Four Agreements",
+        "book_author": "Don Miguel Ruiz",
+        "book_description": "In The Four Agreements, don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11369399-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL27203W/The_Four_Agreements?edition=ia%3Afouragreementspr0000ruiz",
+        "image_file_path": "photos/The Four Agreements__2815ec4e3b69992543b549a4827e0b4d07d50493.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ebe8868e4abd7479551"
+        },
+        "book_title": "12 Rules for Life",
+        "book_author": "Jordan B. Peterson",
+        "book_description": "What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14338970-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17837119W/12_Rules_for_Life?edition=ia%3A12rulesforlifean0000pete_b8q5",
+        "image_file_path": "photos/12 Rules for Life__8ac8c827e797ea247ca5b3d2ad36a19875583d42.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ebe8868e4abd7479552"
+        },
+        "book_title": "Bajo la misma estrella",
+        "book_author": "John Green",
+        "book_description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14431451-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL16444438W/The_Fault_in_Our_Stars?edition=ia%3Abajolamismaestre0000gree_b4i6",
+        "image_file_path": "photos/Bajo la misma estrella__b4e0ee30da8afe1f40eddf144638623968a5d882.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ebf8868e4abd7479553"
+        },
+        "book_title": "101 Essays That Will Change The Way You Think",
+        "book_author": "Brianna Wiest",
+        "book_description": "441 pages ; 22 cm\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14809378-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL23746568W/101_Essays_That_Will_Change_The_Way_You_Think?edition=ia%3A101essaysthatwil0000wies",
+        "image_file_path": "photos/101 Essays That Will Change The Way You Think__fa14edcd40ad993e5e90e7a09c5624e77043b7a6.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec08868e4abd7479554"
+        },
+        "book_title": "Gha kāiṭa ranara",
+        "book_author": "Khaled Hosseini",
+        "book_description": "Novel based on friendship between two boys growing up in Kabul during the final days of the monarchy. When Amir is forced to flee with his prominent and wealthy father for a new life in California.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12811645-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5781992W/The_Kite_Runner?edition=ia%3Aghakaitaranara0000hoss",
+        "image_file_path": "photos/Gha kāiṭa ranara__57f424b2704ddaa6a444e2cbb016604f265d1179.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec08868e4abd7479555"
+        },
+        "book_title": "The personal MBA",
+        "book_author": "Josh Kaufman",
+        "book_description": "Getting an MBA is an expensive choice-one almost impossible to justify regardless of the state of the economy. Even the elite schools like Harvard and Wharton offer outdated, assembly-line programs that teach you more about PowerPoint presentations and unnecessary financial models than what it takes to run a real business. You can get better results (and save hundreds of thousands of dollars) by skipping B-school altogether. Josh Kaufman founded PersonalMBA.com as an alternative to the business school boondoggle. His blog has introduced hundreds of thousands of readers to the best business books and most powerful business concepts of all time. Now, he shares the essentials of entrepreneurship, marketing, sales, negotiation, operations, productivity, systems design, and much more, in one comprehensive volume. The Personal MBAdistills the most valuable business lessons into simple, memorable mental models that can be applied to real-world challenges.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14648570-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL19730553W/The_personal_MBA?edition=ia%3Apersonalmbamaste0000kauf",
+        "image_file_path": "photos/The personal MBA__8197f78315d04bb7fca20dbd17221f151493719c.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec48868e4abd7479556"
+        },
+        "book_title": "Ne tirez pas sur l'oiseau moqueur",
+        "book_author": "Harper Lee",
+        "book_description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than 40 languages, sold more than 30 million copies worldwide, served as the basis for an enormously popular motion picture, and voted one of the best novels of the 20th century by librarians across the United States. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father -- a crusading local lawyer -- risks everything to defend a black man unjustly accused of a terrible crime.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9350349-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3140822W/To_Kill_a_Mockingbird?edition=ia%3Anetirezpassurloi0000harp",
+        "image_file_path": "photos/Ne tirez pas sur l'oiseau moqueur__6f56cb96e1d315313ebf75c90b3e46d79b7ec5f2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec48868e4abd7479557"
+        },
+        "book_title": "Principles of Marketing",
+        "book_author": "Philip Kotler",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12166579-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1807517W/Principles_of_marketing?edition=ia%3Astudyguideprinci0000tute",
+        "image_file_path": "photos/Principles of Marketing__570d82ae80a78bebde8d25cdddd9d7b2a6ad404e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec58868e4abd7479558"
+        },
+        "book_title": "Man's Search for Meaning",
+        "book_author": "Viktor E. Frankl",
+        "book_description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. Man's Search for Meaning has become one of the most influential books in America; it continues to inspire us all to find significance in the very act of living.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12389635-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1268413W/..._Trotzdem_Ja_zum_Leben_sagen?edition=ia%3Amanssearchformea0000fran_r8s9",
+        "image_file_path": "photos/Man's Search for Meaning__1d1c05f34ac97e04050c4d494e8fc50455f788f2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec68868e4abd7479559"
+        },
+        "book_title": "Surrounded by Idiots",
+        "book_author": "Thomas Erikson",
+        "book_description": "Do you ever think you’re the only one making any sense? Or tried to reason with your partner with disastrous results? Do long, rambling answers drive you crazy? Or does your colleague’s abrasive manner rub you the wrong way?\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10105591-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL20806514W/Surrounded_by_Idiots",
+        "image_file_path": "photos/Surrounded by Idiots__5ea225a1e477353a9726a49220b98f6e311e33e9.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ec68868e4abd747955a"
+        },
+        "book_title": "Little women",
+        "book_author": "Louisa May Alcott",
+        "book_description": "Louisa May Alcotts classic novel, set during the Civil War, has always captivated even the most reluctant readers. Little girls, especially, love following the adventures of the four March sisters--Meg, Beth, Amy, and most of all, the tomboy Jo--as they experience the joys and disappointments, tragedies and triumphs, of growing up. This simpler version captures all the charm and warmth of the original.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10615618-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL29983W/Little_Women?edition=ia%3Alittlewomen0000alco_t3z5",
+        "image_file_path": "photos/Little women__9e76c09b90a8c44e3b1a2bc613bf827ce7efdfeb.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eca8868e4abd747955b"
+        },
+        "book_title": "The Inheritance Games",
+        "book_author": "Jennifer Lynn Barnes",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11556499-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL21692056W/Inheritance_Games",
+        "image_file_path": "photos/The Inheritance Games__647c09a358eadbc8126e264866646b0c51d6d565.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecb8868e4abd747955c"
+        },
+        "book_title": "Mountain Is You",
+        "book_author": "Brianna Wiest",
+        "book_description": null,
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL35351356W/The_Mountain_Is_You",
+        "image_file_path": "photos/Mountain Is You__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecc8868e4abd747955d"
+        },
+        "book_title": "해리포터와 아즈카반의 죄수",
+        "book_author": "J. K. Rowling",
+        "book_description": "For Harry Potter, it’s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\n",
+        "image_urls": [
+            "https:https://archive.org/download/harrypotterpriso0000unkn/page/cover_w180_h360.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL82536W/Harry_Potter_and_the_Prisoner_of_Azkaban?edition=ia%3Aharrypotterpriso0000unkn",
+        "image_file_path": "photos/해리포터와 아즈카반의 죄수__760272b1ae4f40e133078d84482910dae01a82f7.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecc8868e4abd747955e"
+        },
+        "book_title": "El código Da Vinci",
+        "book_author": "Dan Brown",
+        "book_description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons. The Da Vinci Code follows \"symbologist\" Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris causes them to become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ and Mary Magdalene having had a child together.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14540893-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL76837W/The_Da_Vinci_Code?edition=ia%3Aisbn_9789584255181",
+        "image_file_path": "photos/El código Da Vinci__8b4eb854a10327fdebf60f6aaa15c14042e38a9e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecd8868e4abd747955f"
+        },
+        "book_title": "Marketing management",
+        "book_author": "Philip Kotler",
+        "book_description": "Marketing Managementcollectively uses a managerial orientation, an analytical approach, a multidisciplinary perspective, universal applications, and balanced coverage to distinguish it from all other marketing management texts out there. Unsurpassed in its breadth, depth, and relevance, the 16th Edition features a streamlined organization of the content, updated material, and new examples that reflect the very latest market developments. After reading this landmark text, you'll have the knowledge and tools to succeed in the new market environment around you.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10103111-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1807518W/Marketing_management?edition=ia%3Ayingxiaoguanli0001kotl",
+        "image_file_path": "photos/Marketing management__78561218923f4ab94167b2a1ad327e45052d9686.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecf8868e4abd7479560"
+        },
+        "book_title": "The Power of Positive Thinking",
+        "book_author": "Norman Vincent Peale",
+        "book_description": "In this phenomenal bestseller, “written with the sole objective of helping the reader achieve a happy, satisfying, and worthwhile life,” Dr. Peale demonstrates the power of faith in action. With the practical techniques outlined in this book, you can energize your life—and give yourself the initiative needed to carry out your ambitions and hopes. You’ll learn how to:\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14570194-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2917168W/The_Power_of_Positive_Thinking?edition=ia%3Alp_the-power-of-positive-thinking_dr-norman-vincent-peale",
+        "image_file_path": "photos/The Power of Positive Thinking__dbbbf233340cf3293a2658c71a9c90e74ed3dba9.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ecf8868e4abd7479561"
+        },
+        "book_title": "Shui dong le wo de nai lao?",
+        "book_author": "Spencer Johnson",
+        "book_description": "Who Moved My Cheese? is a simple parable that reveals profound truths about change. It is an amusing and enlightening story of four characters who live in a \"Maze\" and look for \"Cheese\" to nourish them and make them happy. Two are mice named Sniff and Scurry. And two are \"little people\" -- beings the size of mice who look and act a lot like people. Their names are Hem and Haw. \"Cheese\" is a metaphor for what you want to have in life -- whether it is a good job, a loving relationship, money, possession, health, or spiritual peace of mind. And \"The Maze\" is where you look for what you want -- the organization you work in, or the family or community you live in. In the story, the characters are faced with unexpected change. Eventually, one of them deals with it successfully, and writes what he has learned from his experience on the maze walls. When you come to see \"The Handwriting on the Wall,\" you can discover for yourself how to deal with change, so that you can enjoy less stress and more success (however you define it) in your work and in your life. Written for all ages, the story takes less than an hour to read, but its unique insights can last for a lifetime. - Jacket flap.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8994967-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1864135W/Who_Moved_My_Cheese?edition=ia%3Ashuidonglewodena0000john_n0n2",
+        "image_file_path": "photos/Shui dong le wo de nai lao?__aa2df3c636bfc839e9293bab5c293bd867fde3fe.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed38868e4abd7479562"
+        },
+        "book_title": "The Hired Girl",
+        "book_author": "Laura Amy Schlitz",
+        "book_description": "Ever since the untimely death of her mother, 14 year-old Joan Skraggs has been desperately unhappy. Under the thumb of her cruel father and three sullen brothers, Joan lives like a servant on their farm just outside of Lancaster, forever cooking, cleaning, and attending to the many demands of the home. But she has little freedom, and less support from her family for her love of reading and blossoming interest in education. But when her father tells Joan she can't go to school anymore, it sets off a journey that will see her become first a runaway, then a hired girl on $6 a week, and finally her very own young woman. Set in America during the optimistic years before the First World War, and told through a series of journal entries, THE HIRED GIRL is the story of a young girl in search of Real Life and True Love. It takes in feminism and housework; money, religion, and social class; literature and education, romanticism and realism, first love and sexual yearnings, cats, hats, and bunions. And it's a comedy.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12391518-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL18020192W/The_Hired_Girl?edition=ia%3Ahiredgirl0000schl_e8t3",
+        "image_file_path": "photos/The Hired Girl__e5f736acbf05cc0864a4b8bcc1d00824bb804a30.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed38868e4abd7479563"
+        },
+        "book_title": "manajemen pemasaran",
+        "book_author": "Philip Kotler",
+        "book_description": "For undergraduate and graduate courses in marketing management.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12387449-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17371073W/Marketing_Management?edition=ia%3Amarketingmanagem0015kotl",
+        "image_file_path": "photos/manajemen pemasaran__9ae57eea624461e3c389c271e61032eb760892f5.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed48868e4abd7479564"
+        },
+        "book_title": "Girl In pieces",
+        "book_author": "Kathleen Glasgow",
+        "book_description": "Charlotte Davis is in pieces. At seventeen she’s already lost more than most people do in a lifetime. But she’s learned how to forget. The broken glass washes away the sorrow until there is nothing but calm. You don’t have to think about your father and the river. Your best friend, who is gone forever. Or your mother, who has nothing left to give you.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14635968-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL29331705W/Girl_In_pieces",
+        "image_file_path": "photos/Girl In pieces__0ae0fa621ccbaf89dd04330279107f22c5af9725.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed58868e4abd7479565"
+        },
+        "book_title": "Calculus, with analytic geometry",
+        "book_author": "Howard Anton",
+        "book_description": "A self-contained text for an introductory course, this volume places strong emphasis on physical applications. Key elements of differential equations and linear algebra are introduced early and are consistently referenced, all theorems are proved using elementary methods, and numerous worked-out examples appear throughout. The highly readable text approaches calculus from the student's viewpoint and points out potential stumbling blocks before they develop. A collection of more than 1,600 problems ranges from exercise material to exploration of new points of theory — many of the answers are found at the end of the book; some of them worked out fully so that the entire process can be followed. This well-organized, unified text is copiously illustrated, amply cross-referenced, and fully indexed.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9946031-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL485861W/Calculus_with_analytic_geometry?edition=ia%3Acalculuswithanal0002anto",
+        "image_file_path": "photos/Calculus, with analytic geometry__0cab44489914367b6793afcad733fc6a0f8dbe85.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed78868e4abd7479566"
+        },
+        "book_title": "The hard thing about hard things : building a business when there are no easy answers",
+        "book_author": "Ben Horowitz",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/7279515-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL16818208W/The_hard_thing_about_hard_things?edition=ia%3Ahardthingaboutha0000horo",
+        "image_file_path": "photos/The hard thing about hard things : building a business when there are no easy answers__3ed05aceaefc01feb10af3af134c042f61c36dd3.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed88868e4abd7479567"
+        },
+        "book_title": "The Tragedy of Romeo and Juliet",
+        "book_author": "William Shakespeare",
+        "book_description": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young Italian star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8259040-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL362427W/Romeo_and_Juliet?edition=ia%3A2tragedyofromeoj00shakuoft",
+        "image_file_path": "photos/The Tragedy of Romeo and Juliet__97813162e1a6d9f1879eaec0e76d2453b451d63b.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ed88868e4abd7479568"
+        },
+        "book_title": "Principles of Anatomy and Physiology",
+        "book_author": "Gerard J. Tortora",
+        "book_description": "This is a classic text book sought after by nurses at all stages of their careers. The manual guides nurses in the clinical application of the latest research findings, ensuring that theory and practice are integrated\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/306335-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1827306W/Principles_of_Anatomy_and_Physiology?edition=ia%3Aprinciplesofanat0000tort_o0b0_11ed",
+        "image_file_path": "photos/Principles of Anatomy and Physiology__5426e42fcddd478194034b64184fd1040146cc3c.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422edc8868e4abd7479569"
+        },
+        "book_title": "Marcus Aurelius Antoninus to himself",
+        "book_author": "Marcus Aurelius",
+        "book_description": "Nearly two thousand years after it was written, Meditations remains profoundly relevant for anyone seeking to lead a meaningful life.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/5647913-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1317211W/Meditations?edition=ia%3Amarcusaureliusan00marcrich",
+        "image_file_path": "photos/Marcus Aurelius Antoninus to himself__c5fa7ca5a4d4340e55adf5a1bff8acd5f8fc91eb.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422edf8868e4abd747956a"
+        },
+        "book_title": "Frankenstein",
+        "book_author": "Mary Shelley",
+        "book_description": "Revised, corrected, and illustrated with a new introduction by the author\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8355628-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL450063W/Frankenstein_or_The_Modern_Prometheus?edition=ia%3Afrankensteinormo00shel_8",
+        "image_file_path": "photos/Frankenstein__9832f381185db6e1fd5a3eb71a45f41c0d420804.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422edf8868e4abd747956b"
+        },
+        "book_title": "Psikologi remaja",
+        "book_author": "Muhamad Mansur Abdullah",
+        "book_description": "Psychology of adolescent.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/4053880-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3891392W/Psikologi_remaja",
+        "image_file_path": "photos/Psikologi remaja__563935829d0508508a57490f92862e4923074b32.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee08868e4abd747956c"
+        },
+        "book_title": "Miasteczko Salem",
+        "book_author": "Stephen King",
+        "book_description": "W rnalym prowincjonalnym miasteczku w Ameryce heco, nają się dziać rzeczy niepojęta i przerażające, W dziwnych okolicznościach znikają i umierają dzieci i dorośli, jedna śmierć pocigge drugą. Czyżby Salem byle nawiedzone przez nieczyste, złe moce? Pełną determinacji walką wydaje im kilku śmiałków, którym przewodzi mały chłopiec…\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14543848-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL81632W/%27Salem%E2%80%99s_Lot?edition=ia%3Amiasteczkosalem0000king",
+        "image_file_path": "photos/Miasteczko Salem__ba0e9b55609621faf66336b4211f9b5d8e7ab21c.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee18868e4abd747956d"
+        },
+        "book_title": "Los Juegos del Hambre 2 - En llamas",
+        "book_author": "Suzanne Collins",
+        "book_description": "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol—a rebellion that Katniss and Peeta may have helped create.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13759560-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5735360W/Catching_Fire?edition=ia%3Alosjuegosdelhamb0000suza_u8q0",
+        "image_file_path": "photos/Los Juegos del Hambre 2 - En llamas__b330aef3cd57d8a6fc719f437b3b36fcb0ef0d9f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee18868e4abd747956e"
+        },
+        "book_title": "dork diaries: Tales from a not so fabulous life",
+        "book_author": "Rachel Renée Russell",
+        "book_description": "Nikki Maxwell is starting eighth grade at a new school—and her very first diary is packed with hilarious stories and art in this SUPER SQUEE updated edition of the first book in the #1 New York Times bestselling Dork Diaries series!\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10522790-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL13655592W/Dork_Diaries?edition=ia%3Adorkdiariestales00rac_qvn",
+        "image_file_path": "photos/dork diaries: Tales from a not so fabulous life__e6947ecb86a7444f906bb61d89b7423ba12c061f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee28868e4abd747956f"
+        },
+        "book_title": "The Daily Laws",
+        "book_author": "Robert Greene",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11532633-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24777278W/The_Daily_Laws",
+        "image_file_path": "photos/The Daily Laws__87d5f1a2c534beb7a9327a9a04bda9274a08e884.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee38868e4abd7479570"
+        },
+        "book_title": "Oliver Twist",
+        "book_author": "Charles Dickens",
+        "book_description": "Oliver Twist; or, The Parish Boy's Progress, is the second novel by English author Charles Dickens. It was originally published as a serial from 1837 to 1839, and as a three-volume book in 1838. The story follows the titular orphan, who, after being raised in a workhouse, escapes to London, where he meets a gang of juvenile pickpockets led by the elderly criminal Fagin, discovers the secrets of his parentage, and reconnects with his remaining family.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13323717-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL8193478W/Oliver_Twist?edition=ia%3Aolivertwist0000char_v6j2",
+        "image_file_path": "photos/Oliver Twist__9728870193919c7ee4b7567519b32064322722ae.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee48868e4abd7479571"
+        },
+        "book_title": "Priest",
+        "book_author": "Sierra Simone",
+        "book_description": "There are many rules a priest can't break. A priest cannot marry. A priest cannot abandon his flock. A priest cannot forsake his God.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10409469-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL21833211W/Priest?edition=ia%3Apriestlovestory0000sier",
+        "image_file_path": "photos/Priest__b5d0f46cc8a7d1c3c0a4f971acc40db0f5524014.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee48868e4abd7479572"
+        },
+        "book_title": "Why men love bitches",
+        "book_author": "Sherry Argov",
+        "book_description": null,
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL37172248W/Why_men_love_bitches",
+        "image_file_path": "photos/Why men love bitches__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee58868e4abd7479573"
+        },
+        "book_title": "Bumi manusia",
+        "book_author": "Pramoedya Ananta Toer",
+        "book_description": "Bumi manusia\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14823580-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL307247W/Bumi_manusia?edition=ia%3Abumimanusiasebua00toer",
+        "image_file_path": "photos/Bumi manusia__b32f8a95abcb1614dc23208d9a3209e19869ae33.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee78868e4abd7479574"
+        },
+        "book_title": "Corrupt",
+        "book_author": "Penelope Douglas",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10226443-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL20893778W/Corrupt?edition=ia%3Acorrupt0000rene",
+        "image_file_path": "photos/Corrupt__78e548bf51145d454c1617d464a93bd4c8a3a80e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee78868e4abd7479575"
+        },
+        "book_title": "三体 (sān tǐ)",
+        "book_author": "刘慈欣",
+        "book_description": "Cixin Liu's trilogy-opening novel about first contact with aliens and the clandestine struggle with them over Earth's future, and its scientific progress in particular.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10246550-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17267881W/%E4%B8%89%E4%BD%93?edition=ia%3Asantidiibusanti0000liuc",
+        "image_file_path": "photos/三体 (sān tǐ)__623fdb5e584bd3ea7aaba1c67b667c360e45ec47.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee88868e4abd7479576"
+        },
+        "book_title": "The Immortals of Meluha",
+        "book_author": "Amish Tripathi",
+        "book_description": "1900 BC. In what modern Indians mistakenly call the Indus Valley Civilisation. The inhabitants of that period called it the land of Meluha – a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived. This once proud empire and its Suryavanshi rulers face severe perils as its primary river, the revered",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11152324-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL15914981W/The_Immortals_of_Meluha?edition=ia%3Aisbn_9789380658742",
+        "image_file_path": "photos/The Immortals of Meluha__4edd8990004664f56578f2ca3cefa6dbede712c8.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ee98868e4abd7479577"
+        },
+        "book_title": "Implementing public policy",
+        "book_author": "George C. Edwards III",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/4362727-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL14991646W/Implementing_public_policy?edition=ia%3Aimplementingpubl0000edwa",
+        "image_file_path": "photos/Implementing public policy__5d6ffae85cb052ed3ca32471413e1ef810cd3291.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eed8868e4abd7479578"
+        },
+        "book_title": "Modern naval combat",
+        "book_author": "David Maxwell Owens Miller",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11334269-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL41817W/Modern_naval_combat?edition=ia%3Amodernnavalcomba0000mill_n4x7",
+        "image_file_path": "photos/Modern naval combat__a89ea0527c6e49a221098c1f57891bd81b767d74.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eee8868e4abd7479579"
+        },
+        "book_title": "Beyond entrepreneurship",
+        "book_author": "Collins, James C.",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14810951-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3486272W/Beyond_entrepreneurship?edition=ia%3Abeyondentreprene00coll",
+        "image_file_path": "photos/Beyond entrepreneurship__482beb1c3e202f4f4431e3afb19c391cef16e7ed.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef08868e4abd747957a"
+        },
+        "book_title": "Men are From Mars Women are From Venus",
+        "book_author": "John Gray",
+        "book_description": "Once upon a time Martians and Venusians met, fell in love, and had happy relationships together because they respected and accepted their differences. Then they came to Earth and amnesia set in: they forgot they were from different planets.Based on years of successful counseling of couples and individuals, Men Are from Mars, Women Are from Venus has helped millions of couples transform their relationships. Now viewed as a modern classic, this phenomenal book has helped men and women realize how different they really are and how to communicate their needs in such a way that conflict doesn't arise and intimacy is given every chance to grow.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14618688-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL263458W/Men_are_From_Mars_Women_are_From_Venus?edition=ia%3Amenarefrommarswo00john_0",
+        "image_file_path": "photos/Men are From Mars Women are From Venus__7947622a7ef4c08f2162a8740c219a0889355d53.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef18868e4abd747957b"
+        },
+        "book_title": "The Joy of Sex",
+        "book_author": "Alex Comfort",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9380813-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1174239W/The_joy_of_sex?edition=ia%3Anewjoyofsex0000comf_e0p0",
+        "image_file_path": "photos/The Joy of Sex__71dd25ab31f3d2744c8ef5b8501e8ec0c05b7cff.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef38868e4abd747957c"
+        },
+        "book_title": "The Inner Game of Tennis",
+        "book_author": "W. Timothy Gallwey",
+        "book_description": "Concentrates upon overcoming mental attitudes that adversely affect tennis performance, including learning to relax, effectively concentrating, and discarding bad habits.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/421843-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2619508W/The_Inner_Game_of_Tennis?edition=ia%3Ainnergameoftenni00gall_0",
+        "image_file_path": "photos/The Inner Game of Tennis__c25d73f5a6acec2427ea52a15247d31adb0cea8b.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef58868e4abd747957d"
+        },
+        "book_title": "Outlander.",
+        "book_author": "Diana Gabaldon",
+        "book_description": "Unrivaled storytelling. Unforgettable characters. Rich historical detail. These are the hallmarks of Diana Gabaldon’s work. Her New York Times bestselling Outlander novels have earned the praise of critics and captured the hearts of millions of fans. Here is the story that started it all, introducing two remarkable characters, Claire Beauchamp Randall and Jamie Fraser, in a spellbinding novel of passion and history that combines exhilarating adventure with a love story for the ages.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9272729-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3261155W/Outlander?edition=ia%3Aoutlander00gaba_0",
+        "image_file_path": "photos/Outlander.__ee8b19cdfeec2dffd10212e2ba49ed9ce2a1941a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef58868e4abd747957e"
+        },
+        "book_title": "My happy life",
+        "book_author": "Rose Lagercrantz",
+        "book_description": "Dani has been waiting to go to school her whole life, and cannot wait for the joys it will bring, such as the friendship of Ella. However, school also brings many unexpected things that Dani isn't sure she is ready to face.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8351540-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17725387W/My_happy_life?edition=ia%3Aisbn_9781877579356",
+        "image_file_path": "photos/My happy life__61f94cef92aef3c93e0b62d7d536331f752821b3.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef78868e4abd747957f"
+        },
+        "book_title": "The intelligent investor",
+        "book_author": "Benjamin Graham",
+        "book_description": "The classic text of Benjamin Graham’s seminal The Intelligent Investor has now been revised and annotated to update the timeless wisdom for today’s market conditions.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/6603179-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL823107W/The_intelligent_investor?edition=ia%3Aintelligentinves00grah",
+        "image_file_path": "photos/The intelligent investor__ee6e6458446f12a9dbf681cf3633552c8004e6bc.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef98868e4abd7479580"
+        },
+        "book_title": "Manajemen pemasaran",
+        "book_author": "Bambang Tri Cahyono",
+        "book_description": "Marketing management system of agribusiness and industry in Indonesia; collected articles.\n",
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3223317W/Manajemen_pemasaran",
+        "image_file_path": "photos/Manajemen pemasaran__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef98868e4abd7479581"
+        },
+        "book_title": "El héroe perdido",
+        "book_author": "Rick Riordan",
+        "book_description": "Jason has a problem. He doesn’t remember anything before waking up on a school bus holding hands with a girl.  Apparently, she’s his girlfriend Piper, his best friend is a kid named Leo, and they’re all students in the Wilderness School, a boarding school for “bad kids.”  What he did to end up here, Jason has no idea—except that everything seems very wrong.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14657589-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL15401200W/The_Lost_Hero?edition=ia%3Aelheroeperdido0000rior",
+        "image_file_path": "photos/El héroe perdido__75060280d4c49c6089ac0dad24b56df84356ef63.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422ef98868e4abd7479582"
+        },
+        "book_title": "The time machine",
+        "book_author": "H. G. Wells",
+        "book_description": "The Time Traveller, a dreamer obsessed with traveling through time, builds himself a time machine and, much to his surprise, travels over 800,000 years into the future. He lands in the year 802701: the world has been transformed by a society living in apparent harmony and bliss, but as the Traveler stays in the future he discovers a hidden barbaric and depraved subterranean class. Wells's transparent commentary on the capitalist society was an instant bestseller and launched the time-travel genre.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/7220988-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL52267W/The_Time_Machine?edition=ia%3Atimemachineinven00welluoft",
+        "image_file_path": "photos/The time machine__b6f5c504ea2bf3746dab3613c91c205431122980.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422efa8868e4abd7479583"
+        },
+        "book_title": "Wicked",
+        "book_author": "Gregory Maguire",
+        "book_description": "A fable for adults on the subject of destiny and free will by a writer of children's books. It tells the story of Elphaba before she became the Wicked Witch of the West in the land of Oz. The novel traces her career as nun, nurse, pro-democracy activist and animal rights defender.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10822929-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL66218W/Wicked?edition=ia%3Awickedmemoriasde0000magu",
+        "image_file_path": "photos/Wicked__096cb564b8972107924cda6a7e21d2e059bfb59a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422efb8868e4abd7479584"
+        },
+        "book_title": "Evaluation",
+        "book_author": "Carol H. Weiss",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/90113-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2738600W/Evaluation?edition=ia%3Aevaluationmethod00weis",
+        "image_file_path": "photos/Evaluation__ee4544607bfb22509a1a9e372eff790489bad034.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422efc8868e4abd7479585"
+        },
+        "book_title": "A Girl in a Million",
+        "book_author": "Kako Itō",
+        "book_description": "\"A student nurse catches the love bug for an attractive doctor, but can a sophisticated guy with a complicated life find the extraordinary in an ordinary girl like her?\"--P. [4] of cover.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10346770-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL3458069W/A_Girl_in_a_Million?edition=ia%3Agirlinmillion0000itok",
+        "image_file_path": "photos/A Girl in a Million__32979df13c97beabf9713e8d00c5783d2331b2af.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422efe8868e4abd7479586"
+        },
+        "book_title": "Cantik itu luka",
+        "book_author": "Eka Kurniawan",
+        "book_description": null,
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5881662W/Cantik_itu_luka",
+        "image_file_path": "photos/Cantik itu luka__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422efe8868e4abd7479587"
+        },
+        "book_title": "Déchaîné",
+        "book_author": "Dav Pilkey",
+        "book_description": "220 pages : 21 cm\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14563042-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17623412W/Dog_Man_Unleashed?edition=ia%3Asuperchien2decha0000pilk",
+        "image_file_path": "photos/Déchaîné__46598cf6e67e3cbcc84cc4b907aec0a133d0433e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422eff8868e4abd7479588"
+        },
+        "book_title": "Programação de Sistemas Embarcados",
+        "book_author": "Rodrigo de Almeida",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11077454-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24470175W/Programa%C3%A7%C3%A3o_de_Sistemas_Embarcados",
+        "image_file_path": "photos/Programação de Sistemas Embarcados__e9544a29ad47d1f153a315adce88bf58fffec109.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f008868e4abd7479589"
+        },
+        "book_title": "Hábitos Atómicos",
+        "book_author": "James Clear",
+        "book_description": "Traducido por Gabriela Moya\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14652634-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL37767407W/H%C3%A1bitos_at%C3%B3micos_Atomic_Habits",
+        "image_file_path": "photos/Hábitos Atómicos__77e858252c8f477b4851bae0213451b0a28bb6dc.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f018868e4abd747958a"
+        },
+        "book_title": "The phantom of the opera",
+        "book_author": "Gaston Leroux",
+        "book_description": "Christine is brought up by her itinerant musician father, whose death she mourns endlessly. She achieves a singing position in the Paris Opera line, where a mysterious voice teaches her to unleash her musical potential. The voice belongs to Erik, a deformed musical genius who lives in the opera house. As Christine's singing career takes off, her childhood friend Raoul begins to court her, and he and Erik fight jealously for Christine's hand.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/6550654-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1833989W/Le_fant%C3%B4me_de_l%27op%C3%A9ra?edition=ia%3Aphantomofopera00lero",
+        "image_file_path": "photos/The phantom of the opera__95201b930b335e8255599661dbd12507eab36800.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f038868e4abd747958b"
+        },
+        "book_title": "Diary of a Wimpy Kid",
+        "book_author": "Jeff Kinney",
+        "book_description": "Good\n",
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL34490931W/No_Brainer",
+        "image_file_path": "photos/Diary of a Wimpy Kid__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f058868e4abd747958c"
+        },
+        "book_title": "Dasar Manajemen Sumber Daya Manusia",
+        "book_author": "Eny Lestari Widarni",
+        "book_description": null,
+        "image_urls": [
+            "https:/images/icons/avatar_book.png"
+        ],
+        "book_url": "https://openlibrary.org/works/OL29167086W/Dasar_Manajemen_Sumber_Daya_Manusia",
+        "image_file_path": "photos/Dasar Manajemen Sumber Daya Manusia__7e8f95bf7bec946e0f8e9456442fb8918556ce84.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f068868e4abd747958d"
+        },
+        "book_title": "Sonne, Mord und Sterne",
+        "book_author": "James Patterson",
+        "book_description": "In the middle of the night, a controversial U.S. senator is found murdered in bed in his Georgetown pied-a-terre. The police turn up only one clue: a mysterious rhyme signed \"Jack and Jill\" promising that this is just the beginning. Jack and Jill are out to get the rich and famous, and they will stop at nothing until their fiendish plan is carried out.Meanwhile, Washington, D. C., homicide detective Alex Cross is called to a murder scene only blocks from his house, far from the corridors of power where he spends his days. The victim: a beautiful little girl, savagely beaten--and desposited in front of the elementary school Cross's son, Damon, attends.Could there be a connection between the two murders? As Cross tries to put the pieces together, the killer- or killers - strike again. And again. No one in Washington is safe - not children, not politicians, not even the President of the United States. Only Alex Cross has the skills and the courage to crack the case-but will he discover the truth in time?A relentless roller coaster of heart-pounding suspense and jolting plot twists, Jack and Jill proves that no one can write a more compelling thriller than James Patterson-the master of the nonstop nightmare.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11002014-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL167185W/Jack_Jill?edition=ia%3Asonnemordundster0000patt",
+        "image_file_path": "photos/Sonne, Mord und Sterne__2188f75ef75fc66e984e6f32766c8e0f0ed5af2e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f088868e4abd747958e"
+        },
+        "book_title": "Como a gua para chocolate",
+        "book_author": "Laura Esquivel",
+        "book_description": "Like Water for Chocolate (Spanish: Como agua para chocolate) is a novel by Mexican novelist and screenwriter Laura Esquivel.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/8372639-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL953162W/Como_agua_para_chocolate?edition=ia%3Aisbn_8501154423",
+        "image_file_path": "photos/Como a gua para chocolate__99a8d27e0d4a9d18c5a978bccac9c52e1be64cfe.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f098868e4abd747958f"
+        },
+        "book_title": "Padre Rico, Padre Pobre",
+        "book_author": "Robert T. Kiyosaki",
+        "book_description": "Educacion financiera\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14655734-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2010885W/Padre_Rico_Padre_Pobre?edition=ia%3Apadrericopadrepo00kiyo_537",
+        "image_file_path": "photos/Padre Rico, Padre Pobre__7e8be3cee2b0190df39f6d558a142245a4e29bca.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f098868e4abd7479590"
+        },
+        "book_title": "October Junction",
+        "book_author": "Divya Prakash Dubey",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11054950-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24454849W/October_Junction",
+        "image_file_path": "photos/October Junction__c8e9a8a1baee4fe00bad3e749258e20fbc65b207.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f0b8868e4abd7479591"
+        },
+        "book_title": "Psycho Cybernetics",
+        "book_author": "Maxwell Maltz",
+        "book_description": "Cybernetics (loosely translated from the Greek): “a helmsman who steers his ship to port.” Psycho-Cybernetics is a term coined by Dr. Maxwell Maltz, which means, “steering your mind to a productive, useful goal so you can reach the greatest port in the world, peace of mind.”\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14510015-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL99079W/Psycho-cybernetics?edition=ia%3Apsychocybernetic0000maxw_q4f8",
+        "image_file_path": "photos/Psycho Cybernetics__5a78a622b6b54d25b9f55b69d770bdc9aac87977.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f0d8868e4abd7479592"
+        },
+        "book_title": "Manifest",
+        "book_author": "Roxie Nafousi",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13162460-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL25813658W/Manifest",
+        "image_file_path": "photos/Manifest__6c863b51ce493a4e02f8f7150721a40b9823a985.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f0d8868e4abd7479593"
+        },
+        "book_title": "The cruel prince",
+        "book_author": "Holly Black",
+        "book_description": "Jude was seven years old when her parents were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King. To win a place at the Court, she must defy him, and face the consequences.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13275414-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17850410W/The_Cruel_Prince",
+        "image_file_path": "photos/The cruel prince__fa4450a361678ec4bc3c24e47a394bb5bd54bc67.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f0e8868e4abd7479594"
+        },
+        "book_title": "Quién eres tú y qué haces aquí-El Libro de iO",
+        "book_author": "Jesús Yanes",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14809463-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL34735956W/Qui%C3%A9n_eres_t%C3%BA_y_qu%C3%A9_haces_aqu%C3%AD-El_Libro_de_iO",
+        "image_file_path": "photos/Quién eres tú y qué haces aquí-El Libro de iO__04070637bac90f62f56143e0a7184cca59fae0d0.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f0f8868e4abd7479595"
+        },
+        "book_title": "Digital Marketing",
+        "book_author": "Dave Chaffey",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9424149-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL20732757W/Digital_Marketing",
+        "image_file_path": "photos/Digital Marketing__085016ee391f1e2bca71f0a2ed21e63bf013311d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f108868e4abd7479596"
+        },
+        "book_title": "Objective NCERT at Your Fingertips for NEET-JEE - Chemistry",
+        "book_author": "Mtg",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10161252-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL20849874W/Objective_NCERT_at_Your_Fingertips_for_NEET-JEE_-_Chemistry",
+        "image_file_path": "photos/Objective NCERT at Your Fingertips for NEET-JEE - Chemistry__9b4e70ee6d7604fab8ff276871b569be7f187f4f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f118868e4abd7479597"
+        },
+        "book_title": "Your Fault",
+        "book_author": "Mercedes Ron",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14552630-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL35710173W/Your_Fault",
+        "image_file_path": "photos/Your Fault__2b06b66015067e1930208c98704eba94d68304f4.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f128868e4abd7479598"
+        },
+        "book_title": "Jujutsu Kaisen, Vol. 1 (呪術廻戦 Jujutsu Kaisen #1)",
+        "book_author": "Gege Akutami",
+        "book_description": "book about curses and fighting OH also a few gays its nice i like it personally ;)\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9270022-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL20644916W/Jujutsu_Kaisen_Vol._1_%28%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_Jujutsu_Kaisen_1%29",
+        "image_file_path": "photos/Jujutsu Kaisen, Vol. 1 (呪術廻戦 Jujutsu Kaisen #1)__3bf566f52a2295af619ec9f906d9e04bdced5385.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f138868e4abd7479599"
+        },
+        "book_title": "Exposing the satanic lullaby",
+        "book_author": "William L. Devine",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12828325-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL28588274W/Exposing_the_satanic_lullaby?edition=ia%3Aexposingsatanicl0000devi",
+        "image_file_path": "photos/Exposing the satanic lullaby__5ea6940e6cedb52f00be4eb6f6158bece729ef4a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f158868e4abd747959a"
+        },
+        "book_title": "Un giorno",
+        "book_author": "Alison McGhee",
+        "book_description": "A mother reflects on the all the milestones, from walking in a deep wood to holding someone else's hand, that her child will achieve during life.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12962340-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL50198W/Someday?edition=ia%3Aungiorno0000mcgh",
+        "image_file_path": "photos/Un giorno__9b2165feb2bfa7c1b0cc84a3dd56943bf13640b3.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f168868e4abd747959b"
+        },
+        "book_title": "Art of Public Speaking",
+        "book_author": "Stephen E. Lucas",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/4948638-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2637442W/The_Art_of_public_speaking?edition=ia%3Aartofpublicspe1989luca",
+        "image_file_path": "photos/Art of Public Speaking__049850c0cc0f28d6f6514fbed4ab26c42b8207ad.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f168868e4abd747959c"
+        },
+        "book_title": "The 5 AM Club",
+        "book_author": "Robin S. Sharma",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11217364-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL19665926W/The_5_a.m._Club",
+        "image_file_path": "photos/The 5 AM Club__1190703b5ed9c2d36a22dbee17eb8944810eac9a.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1a8868e4abd747959d"
+        },
+        "book_title": "Carrie",
+        "book_author": "Stephen King",
+        "book_description": "The story of misfit high-school girl, Carrie White, who gradually discovers that she has telekinetic powers. Repressed by a domineering, ultra-religious mother and tormented by her peers at school, her efforts to fit in lead to a dramatic confrontation during the senior prom. ",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14656508-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL81626W/Carrie?edition=ia%3Acarrie0000unse_u4w7",
+        "image_file_path": "photos/Carrie__46d9434715b8955bcf97bc0430533bab54e51fb7.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1b8868e4abd747959e"
+        },
+        "book_title": "The Duke and I",
+        "book_author": "Julia Quinn",
+        "book_description": "HAS THE DEVASTATING DUKE FINALLY FOUND A BRIDE?\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/10548994-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL554620W/The_Duke_and_I?edition=ia%3Adukei00quin",
+        "image_file_path": "photos/The Duke and I__15e4fe0b4ac8a2f81fed4473236561d7182c4f58.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1c8868e4abd747959f"
+        },
+        "book_title": "Happy Halloween Gus!",
+        "book_author": "Jacklyn Williams",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/754131-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL5718885W/Happy_Halloween_Gus%21?edition=ia%3Ahappyhalloweengu00jack",
+        "image_file_path": "photos/Happy Halloween Gus!__e03c4c570c792391c58450123f6c19b32ca56ecb.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1d8868e4abd74795a0"
+        },
+        "book_title": "Y tri blaidd bach a'r mochyn mawr drwg",
+        "book_author": "Eugenios Trivizas",
+        "book_description": "A beautiful pop-up edition of the bestselling, award-winning picture book, it is complete with blown-down houses, blown-up explosions, and a fabulous dancing pig.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12981776-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL8316888W/The_Three_Little_Wolves_and_the_Big_Bad_Pig?edition=ia%3Aytriblaiddbachar0000triv",
+        "image_file_path": "photos/Y tri blaidd bach a'r mochyn mawr drwg__2a23a49288b477311532db3150faf599b002f209.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1d8868e4abd74795a1"
+        },
+        "book_title": "L'outsider",
+        "book_author": "Stephen King",
+        "book_description": "\"An unspeakable crime. A confounding investigation. At a time when the King brand has never been stronger, he has delivered one of his most unsettling and compulsively readable stories. An eleven-year-old boy's violated corpse is found in a town park. Eyewitnesses and fingerprints point unmistakably to one of Flint City's most popular citizens. He is Terry Maitland, Little League coach, English teacher, husband, and father of two girls. Detective Ralph Anderson, whose son Maitland once coached, orders a quick and very public arrest. Maitland has an alibi, but Anderson and the district attorney soon add DNA evidence to go with the fingerprints and witnesses. Their case seems ironclad. As the investigation expands and horrifying answers begin to emerge, King's propulsive story kicks into high gear, generating strong tension and almost unbearable suspense. Terry Maitland seems like a nice guy, but is he wearing another face? When the answer comes, it will shock you as only Stephen King can.\"--\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14655671-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17937105W/The_Outsider?edition=ia%3Aloutsider0000step",
+        "image_file_path": "photos/L'outsider__5a9ebdf73b0884644ba1b496b4fa2a76a1b6cb3d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f1f8868e4abd74795a2"
+        },
+        "book_title": "Rica daida, puara daida",
+        "book_author": "Robert T. Kiyosaki",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14817253-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL28606014W/Rica_daida_puara_daida?edition=ia%3Aricadaidapuarada0000kiyo",
+        "image_file_path": "photos/Rica daida, puara daida__268998f0cf9bc02ed0073fd2f492483c11a950a6.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f208868e4abd74795a3"
+        },
+        "book_title": "Heaven Official's Blessing Vol. 1",
+        "book_author": "Mo Xiang Tong Xiu",
+        "book_description": "This is the English versions with illustrations by ZeldaCW\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13131706-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL25957469W/Heaven_Official%27s_Blessing",
+        "image_file_path": "photos/Heaven Official's Blessing Vol. 1__4c38b0f307adc6548d27d18938b6b3b59c9a98a6.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f238868e4abd74795a4"
+        },
+        "book_title": "Girls Can Be Anything",
+        "book_author": "Norma Klein",
+        "book_description": "By using living examples, Marina convinces her kindergarten friend Adam that girls can be doctors, pilots, and presidents, too\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/6691721-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL4634676W/Girls_Can_Be_Anything?edition=ia%3Agirlscanbeanythi00klei",
+        "image_file_path": "photos/Girls Can Be Anything__54a37044e0108b0b2c8d823f528c44a9136dc65d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f238868e4abd74795a5"
+        },
+        "book_title": "Black Market",
+        "book_author": "James Patterson",
+        "book_description": "A string of #1 blockbusters from Along Came a Spider to Cat & Mouse. Now read James Patterson's BLACK FRIDAY.The breathtaking suspense of Kiss the Girls and the authenticity of N.Y.P.D. Blue: Welcome to James Patterson's classic superthriller, BLACK FRIDAY. A courageous federal agent, a powerful and resourceful woman lawyer -- only they can possibly stop the unspeakable from happening. New York City is under siege by a secret militia group -- and that's just the beginning of the relentless terror of BLACK FRIDAY.",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13196054-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL167147W/Black_Friday?edition=ia%3Ablackmarket0000patt_b5s8",
+        "image_file_path": "photos/Black Market__05289e5c14977c0a588bcc58f16b35569c550d91.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f248868e4abd74795a6"
+        },
+        "book_title": "Never Lie",
+        "book_author": "Freida McFadden",
+        "book_description": null,
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/13198561-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL34224558W/Never_Lie",
+        "image_file_path": "photos/Never Lie__ede5d6d14cfe43d49df02a271b66b43e4285811d.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f258868e4abd74795a7"
+        },
+        "book_title": "Andelé a démoni",
+        "book_author": "Dan Brown",
+        "book_description": "Angels & Demons is a 2000 bestselling mystery-thriller novel written by American author Dan Brown and published by Pocket Books and then by Corgi Books. The novel introduces the character Robert Langdon, who recurs as the protagonist of Brown's subsequent novels. Angels & Demons shares many stylistic literary elements with its sequels, such as conspiracies of secret societies, a single-day time frame, and the Catholic Church. Ancient history, architecture, and symbology are also heavily referenced throughout the book.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14553490-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL76833W/Angels_Demons?edition=ia%3Aisbn_9788086518435",
+        "image_file_path": "photos/Andelé a démoni__3f9aca4c63651af81dc650819efe748917efbfe4.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f258868e4abd74795a8"
+        },
+        "book_title": "Technical analysis of stock trends",
+        "book_author": "Robert D. Edwards",
+        "book_description": "This is a classic book that shows how to use technical analysis to understand the stock market. The information contained in this book is widely accepted as being a foundation for studying technical analysis of the stock market.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/7124690-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL2638922W/Technical_analysis_of_stock_trends?edition=ia%3Atechnicalanalyis00edwa",
+        "image_file_path": "photos/Technical analysis of stock trends__af1f46d821934de2e88cd912203124d1f86c6b5e.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f268868e4abd74795a9"
+        },
+        "book_title": "The Power of Your Subconscious Mind",
+        "book_author": "Joseph Murphy",
+        "book_description": "Why is one mad sad and another man happy? Why is one man joyous and prosperous and another man poor and miserable? Why is one man fearful and anxious and another full of faith and confidence? Dr. Joseph Murphy answers these questions and many more in his best-selling self-help book, which shows you how to unleash the hidden strengths within you to gain confidence and success in everyday life.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14538282-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL55806W/The_Power_of_Your_Subconscious_Mind?edition=ia%3Apowerofyoursubco0000murp_c5j2",
+        "image_file_path": "photos/The Power of Your Subconscious Mind__bf16af9f4d549da37387586b6fc7f1af66ca8821.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f288868e4abd74795aa"
+        },
+        "book_title": "Can't Hurt Me",
+        "book_author": "David Goggins",
+        "book_description": "New York Times best seller\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/9406261-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL18108064W/Can%27t_Hurt_Me",
+        "image_file_path": "photos/Can't Hurt Me__707ae36f3401d9c009d86b424f5250c7c0f6d6ae.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f2b8868e4abd74795ab"
+        },
+        "book_title": "It Ends With Us",
+        "book_author": "Colleen Hoover",
+        "book_description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14825389-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL18020194W/It_Ends_With_Us?edition=ia%3Aitendswithus0000hoov",
+        "image_file_path": "photos/It Ends With Us__511706028568a78c0f4b1a8339e9e1c72db2198f.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f2b8868e4abd74795ac"
+        },
+        "book_title": "Think and Grow Rich",
+        "book_author": "Napoleon Hill",
+        "book_description": "Napoleon Hill's quintessential volume Think and grow rich, the all-time bestseller in the field of professional success, outlines the laws of success and sets the standard of today's motivational thinking.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14542529-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL527464W/Think_and_Grow_Rich?edition=ia%3Athinkgrowrichtea0000napo",
+        "image_file_path": "photos/Think and Grow Rich__1653a6547910df8afbbb8d972d9a68ad74214b03.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f2c8868e4abd74795ad"
         },
         "book_title": "Twisted Love",
         "book_author": "Ana Huang",
         "book_description": "He has a heart of ice … but for her, he'd burn the world. Alex Volkov is a devil blessed with the face of an angel and cursed with a past he can't escape. Driven by a tragedy that has haunted him for most of his life, his ruthless pursuits for success and vengeance leave little room for matters of the heart. But when he's forced to look after his best friend's sister, he starts to feel something in his chest: A crack. A melt. A fire that could end his world as he knew it. *",
-        "book_url": "https://openlibrary.org/works/OL24390422W/Twisted_Love"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/12940491-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL24390422W/Twisted_Love",
+        "image_file_path": "photos/Twisted Love__c6a676103cfdcfc163a732e4a387fa4116bc6947.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82d8ad63afcad813503a"
-        },
-        "book_title": "Le trône de fer",
-        "book_author": "George R. R. Martin",
-        "book_description": "Le royaume des sept couronnes est sur le point de connaître son plus terrible hiver : par-delà le mur qui garde sa frontière nord, une armée de ténèbres se lève, menaçant de tout détruire sur son passage. Mais il en faut plus pour refroidir les ardeurs des rois, des reines, des chevaliers et des renégats qui se disputent le trône de fer. Tous les coups sont permis, et seuls les plus forts, ou les plus retors, s'en sortiront indemnes...\n",
-        "book_url": "https://openlibrary.org/works/OL257943W/A_Game_of_Thrones?edition=ia%3Aletrnedeferlintg0000mart"
-    },
-    {
-        "_id": {
-            "$oid": "673f82d8ad63afcad813503b"
+            "$oid": "67422f2c8868e4abd74795ae"
         },
         "book_title": "I Don't Love You Anymore",
         "book_author": "Rithvik Singh",
         "book_description": "Dear reader,\n",
-        "book_url": "https://openlibrary.org/works/OL38382569W/I_Don%27t_Love_You_Anymore"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14638562-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL38382569W/I_Don%27t_Love_You_Anymore",
+        "image_file_path": "photos/I Don't Love You Anymore__b03483689e641e9b4e0990a0352fe009cf5de2bd.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82d8ad63afcad813503c"
+            "$oid": "67422f2d8868e4abd74795af"
+        },
+        "book_title": "Le trône de fer",
+        "book_author": "George R. R. Martin",
+        "book_description": "Le royaume des sept couronnes est sur le point de connaître son plus terrible hiver : par-delà le mur qui garde sa frontière nord, une armée de ténèbres se lève, menaçant de tout détruire sur son passage. Mais il en faut plus pour refroidir les ardeurs des rois, des reines, des chevaliers et des renégats qui se disputent le trône de fer. Tous les coups sont permis, et seuls les plus forts, ou les plus retors, s'en sortiront indemnes...\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14601851-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL257943W/A_Game_of_Thrones?edition=ia%3Aletrnedeferlintg0000mart",
+        "image_file_path": "photos/Le trône de fer__eb5ed87467ebad6d6062750f8ff62d8cd350dbe2.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f2e8868e4abd74795b0"
         },
         "book_title": "The Psychology of Money",
         "book_author": "Morgan Housel",
         "book_description": "Timeless lessons on wealth, greed, and happiness doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important matters.\n",
-        "book_url": "https://openlibrary.org/works/OL21640039W/The_Psychology_of_Money"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14653525-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL21640039W/The_Psychology_of_Money",
+        "image_file_path": "photos/The Psychology of Money__a234ca5b32386be595089ac183f664ea40f3fb0d.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82dbad63afcad813503d"
+            "$oid": "67422f2e8868e4abd74795b1"
         },
-        "book_title": "Power. Die 48 Gesetze der Macht. Ein Joost- Elffers- Buch.",
-        "book_author": "Robert Greene",
-        "book_description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention--grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.\n",
-        "book_url": "https://openlibrary.org/works/OL1968368W/The_48_Laws_of_Power?edition=ia%3Apowerdie48gesetz0000robe"
+        "book_title": "Read People Like a Book",
+        "book_author": "Patrick King",
+        "book_description": "Speed read people, decipher body language, detect lies, and understand human nature.",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/11983442-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL25291486W/Read_People_Like_a_Book",
+        "image_file_path": "photos/Read People Like a Book__a0526aaa32bfdfb3d92251148a426cd6d76aa95c.jpg"
     },
     {
         "_id": {
-            "$oid": "673f82dcad63afcad813503e"
+            "$oid": "67422f308868e4abd74795b2"
         },
         "book_title": "Atomic Habits",
         "book_author": "James Clear",
         "book_description": "No matter your goals, Atomic Habits offers a proven framework for improving every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.\n",
-        "book_url": "https://openlibrary.org/works/OL17930368W/Atomic_Habits?edition=ia%3Aatomichabitseasy0000clea"
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14824623-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL17930368W/Atomic_Habits?edition=ia%3Aatomichabitseasy0000clea",
+        "image_file_path": "photos/Atomic Habits__635cdbd6e2d64d9505bbc9cd2f11b7bb9edf7a0b.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f318868e4abd74795b3"
+        },
+        "book_title": "Shatter me",
+        "book_author": "Tahereh Mafi",
+        "book_description": "Ostracized or incarcerated her whole life, seventeen-year-old Juliette is freed on the condition that she use her horrific abilities in support of The Reestablishment, a post-apocalyptic dictatorship, but Adam, the only person ever to show her affection, offers hope of a better future.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/14408252-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL16014245W/Shatter_Me?edition=ia%3Ashatterme00mafi_0",
+        "image_file_path": "photos/Shatter me__3fc465966f3f0af7760885098afb635dc59c78a4.jpg"
+    },
+    {
+        "_id": {
+            "$oid": "67422f318868e4abd74795b4"
+        },
+        "book_title": "Power. Die 48 Gesetze der Macht. Ein Joost- Elffers- Buch.",
+        "book_author": "Robert Greene",
+        "book_description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention--grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.\n",
+        "image_urls": [
+            "https://covers.openlibrary.org/b/id/1007858-M.jpg"
+        ],
+        "book_url": "https://openlibrary.org/works/OL1968368W/The_48_Laws_of_Power?edition=ia%3Apowerdie48gesetz0000robe",
+        "image_file_path": "photos/Power. Die 48 Gesetze der Macht. Ein Joost- Elffers- Buch.__9358a888decdcde94675abdf7b331ff14668fe1a.jpg"
     }
 ]

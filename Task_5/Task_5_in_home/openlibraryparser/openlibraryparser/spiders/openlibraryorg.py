@@ -62,6 +62,7 @@ class OpenlibraryorgSpider(scrapy.Spider):
         book_author = response.xpath("//a[@itemprop='author']/text()").get()
         # Извлекаем описание книги
         book_description = response.xpath("//div[@class='read-more__content']/p/text()").get()
+        image_urls=['https:'+response.xpath("//img[@itemprop='image']/@src").get()]
         # Получаем URL текущей страницы
         book_url = response.url
 
@@ -70,5 +71,6 @@ class OpenlibraryorgSpider(scrapy.Spider):
             book_title=book_title,
             book_author=book_author,
             book_description=book_description,
+            image_urls=image_urls,
             book_url=book_url
         )

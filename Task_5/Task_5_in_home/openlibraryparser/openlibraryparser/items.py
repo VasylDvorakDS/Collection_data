@@ -4,6 +4,9 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 import scrapy
 
+def process_photo(value: str):
+    return 'https:' + value
+
 
 class OpenlibraryparserItem(scrapy.Item):
     """
@@ -21,4 +24,5 @@ class OpenlibraryparserItem(scrapy.Item):
     # URL страницы книги
     book_url = scrapy.Field()
     # Уникальный идентификатор для записи в MongoDB
+    image_urls = scrapy.Field()
     _id = scrapy.Field()

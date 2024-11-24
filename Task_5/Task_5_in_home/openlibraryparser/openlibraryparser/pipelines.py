@@ -7,9 +7,18 @@ from itemadapter import ItemAdapter
 from pymongo import MongoClient
 from scrapy import signals
 from bson.json_util import dumps
+from scrapy.pipelines.images import ImagesPipeline
+import hashlib
 
 
-class OpenlibraryparserPipeline:
+class OpenlibraryparserImagesPipeline(ImagesPipeline):
+    def file_path(self, request, response=None, info=None, *, item=None):
+        # Генерация уникального имени файла на основе URL изображения
+        image_guid = hashlib.sha1(request.url.encode()).hexdigest()
+        # Возвращаем относительный путь для сохранения изображения
+        return f"photos/{item['book_title']}__{image_guid}.jpg"
+
+class OpenlibraryparserPipeline():
     def __init__(self):
         # Подключение к MongoDB
         try:
@@ -30,26 +39,26 @@ class OpenlibraryparserPipeline:
         return pipeline
 
     def process_item(self, item, spider):
-        """
-        Обработка каждого элемента, собранного пауком.
-        :param item: Элемент (объект Item или словарь)
-        :param spider: Объект паука
-        """
         if not self.collection_name:
-            self.collection_name = spider.name  # Установка имени коллекции в MongoDB на основе имени паука
+            self.collection_name = spider.name
         collection = self.mongo_base[self.collection_name]
-        data = ItemAdapter(item).asdict()  # Преобразование элемента в словарь
 
-        # Проверяем, существует ли элемент с тем же `_id`
+        data = ItemAdapter(item).asdict()
+        if "image_urls" in data and data["image_urls"]:
+            image_url = data["image_urls"][0]
+            image_guid = hashlib.sha1(image_url.encode()).hexdigest()
+            data['image_file_path'] = f"photos/{item['book_title']}__{image_guid}.jpg"
+
         if not collection.find_one({'_id': item.get('_id')}):
-            collection.insert_one(data)  # Сохраняем элемент в MongoDB
-        return item  # Обязательно возвращаем элемент для дальнейшей обработки Scrapy
+            collection.insert_one(data)
+        return item
 
     def spider_closed(self, spider):
         """
         Обработчик сигнала `spider_closed`, вызывается при завершении работы паука.
         Этот метод отвечает за экспорт данных из MongoDB в файлы.
         """
+
         collection = self.mongo_base[self.collection_name]
         all_data = list(collection.find())  # Извлекаем все данные из коллекции MongoDB
         self.write_in_csv(all_data)  # Записываем данные в CSV
