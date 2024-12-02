@@ -49,26 +49,24 @@ def fetch_article_data(url):
         return None  # Возвращаем None в случае ошибки
 
 # Основная функция программы
-def main():
-    driver = setup_driver()  # Настраиваем и запускаем драйвер
-    wait = WebDriverWait(driver, 30)  # Устанавливаем ожидание до 30 секунд
 
-    try:
-        # Получаем ссылки на статьи
-        article_links = fetch_article_links(driver, wait)
-        # По каждой ссылке извлекаем данные
-        news = [fetch_article_data(url) for url in article_links if url]
-        # Удаляем пустые результаты (где данные не были получены)
-        news = [item for item in news if item]
+driver = setup_driver()  # Настраиваем и запускаем драйвер
+wait = WebDriverWait(driver, 30)  # Устанавливаем ожидание до 30 секунд
 
-        # Сохраняем данные в файлы
-        formatted_news = pd.DataFrame(news)  # Преобразуем данные в таблицу
-        formatted_news.to_csv('news.csv', index=False)  # Сохраняем данные в CSV-файл
-        formatted_news.to_json('news.json', orient='records', force_ascii=False, indent=4)  # Сохраняем данные в JSON-файл
-        pprint(news)  # Выводим данные в консоль
-    finally:
-        driver.quit()  # Закрываем браузер, чтобы освободить ресурсы
+try:
+    # Получаем ссылки на статьи
+    article_links = fetch_article_links(driver, wait)
+    # По каждой ссылке извлекаем данные
+    news = [fetch_article_data(url) for url in article_links if url]
+    # Удаляем пустые результаты (где данные не были получены)
+    news = [item for item in news if item]
 
-# Точка входа в программу
-if __name__ == "__main__":
-    main()
+    # Сохраняем данные в файлы
+    formatted_news = pd.DataFrame(news)  # Преобразуем данные в таблицу
+    formatted_news.to_csv('news.csv', index=False)  # Сохраняем данные в CSV-файл
+    formatted_news.to_json('news.json', orient='records', force_ascii=False, indent=4)  # Сохраняем данные в JSON-файл
+    pprint(news)  # Выводим данные в консоль
+finally:
+    driver.quit()  # Закрываем браузер, чтобы освободить ресурсы
+
+
