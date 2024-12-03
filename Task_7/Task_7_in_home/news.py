@@ -24,17 +24,16 @@ def fetch_article_links(driver, wait):
     # Ждем появления и кликаем на фильтр "За месяц"
     wait.until(EC.presence_of_element_located((By.XPATH, "//a[@data-filter-value='30']"))).click()
     # Ждём карточки новостей за месяц
-    cards = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//span[@class='search-item__link-in']")))
+    cards = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//a[@class='search-item__link  js-search-item-link']")))
     # Собираем ссылки на статьи
-    return [card.find_element(By.XPATH, "./div/a").get_attribute("href") for card in cards]
+    return [card.get_attribute("href") for card in cards]
 
 # Функция для получения данных статьи с помощью Beatuful soup
 def fetch_article_data(url):
     ua = UserAgent().random  # Создаем случайный User-Agent
     header = {"User-Agent": ua}  # Устанавливаем User-Agent в заголовки запроса
     try:
-        response = requests.get(url, headers=header, timeout=5)  # Делаем запрос на страницу статьи
-        response.raise_for_status()  # Проверяем успешность запроса
+        response = requests.get(url, headers=header, timeout=10)  # Делаем запрос на страницу статьи
         soup = BeautifulSoup(response.text, "html.parser")  # Парсим HTML-страницу
         # Извлекаем заголовок статьи
         title = soup.find('h1', {'class', 'article__header__title-in js-slide-title'}).get_text(strip=True)
@@ -48,7 +47,7 @@ def fetch_article_data(url):
         print(f"Ошибка обработки статьи {url}: {e}")  # Выводим сообщение об ошибке
         return None  # Возвращаем None в случае ошибки
 
-# Основная функция программы
+# Основная программа
 
 driver = setup_driver()  # Настраиваем и запускаем драйвер
 wait = WebDriverWait(driver, 30)  # Устанавливаем ожидание до 30 секунд
