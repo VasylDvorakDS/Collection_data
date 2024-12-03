@@ -41,8 +41,14 @@ def fetch_article_data(url):
         time = soup.find('time', {'class', 'article__header__date'}).get_text(strip=True)
         # Извлекаем текст статьи
         content = [p.get_text(strip=True) for p in soup.findAll('p')]
+        try:
+            cut_index=content.index("Читайте РБК вTelegram.")
+            content=content[:cut_index]
+        except:
+            pass
+        article = '\n'.join(content)
         # Возвращаем данные статьи в виде словаря
-        return {'title': title, 'time': time, 'content': content, 'url': url}
+        return {'title': title, 'time': time, 'content': article, 'url': url}
     except Exception as e:  # Обрабатываем возможные ошибки
         print(f"Ошибка обработки статьи {url}: {e}")  # Выводим сообщение об ошибке
         return None  # Возвращаем None в случае ошибки
